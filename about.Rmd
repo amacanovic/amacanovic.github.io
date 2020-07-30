@@ -1,7 +1,5 @@
 ---
-title: "about.Rmd"
-author: "Ana Macanovic"
-
+title: "About me"
 output: html_document
 ---
 Why I am awesome. 
