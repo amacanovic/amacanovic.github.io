@@ -1,7 +1,8 @@
 ---
 title: "Index"
-author: "Ana Macanovic"
+
 output: html_document
 ---
 
 Hello, World! All kind of stuff.
+Not sure why it isn't working again.
