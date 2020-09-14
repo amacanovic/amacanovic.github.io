@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Ana Macanović"
   left:
-    - text: "Home"
+    - text: "About me"
       href: index.html
-    - text: "About Me"
+    - text: "CV"
       href: about.html
