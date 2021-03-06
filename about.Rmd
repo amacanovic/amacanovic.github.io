@@ -1,9 +1,7 @@
 ---
 title: "CV"
 output: html_document
-header-includes:
-  - \usepackage{pdfpages}
 ---
 
-\includepdf[pages={-}]{Macanovic_CV_2021.pdf}
 
+![](./Macanovic_CV_2021.pdf){width=100% height=400}
