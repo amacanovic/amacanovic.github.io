@@ -4,3 +4,5 @@ output: html_document
 ---
 
 Text will go here
+
+\includepdf[pagecommand={}]{PDF/Macanovic_CV_2021.pdf}
