@@ -1,8 +1,9 @@
 ---
 title: "CV"
 output: html_document
+header-includes:
+  - \usepackage{pdfpages}
 ---
 
-Text will go here
+\includepdf[pages={-}]{Macanovic_CV_2021.pdf}
 
-\includepdf[pagecommand={}]{PDF/Macanovic_CV_2021.pdf}
