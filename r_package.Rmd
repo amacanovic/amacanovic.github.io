@@ -1,0 +1,19 @@
+---
+title: "Keyness Measures"
+
+output: html_document
+---
+<br>
+<br>
+<div style="text-align: justify">
+I am currently working on developing an R package enabling researchers
+to explore their textual corpora using several measures from 
+computational lingustics.
+
+These measures enable one to explore the "key" words in one corpus, compared to 
+the other, exploring important concepts over text categories, time, etc. 
+
+Current version, still under development, can be found on my
+[GitHub page](https://github.com/amacanovic/KeynessMeasures). 
+
+</div>

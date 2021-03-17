@@ -7,3 +7,5 @@ navbar:
       href: index.html
     - text: "CV"
       href: about.html
+    - text: "R Packages"
+      href: r_package.html
