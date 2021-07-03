@@ -1,0 +1,47 @@
+---
+title: "Activities"
+output: html_document
+---
+
+<br/>
+<br/>
+
+### Teaching
+<br/>
+
+- 2021. Utrecht University, BA Thesis Project, *Supervising BA theses*
+<br/>
+<br/>
+
+- 2020. Utrecht University, Advanced Sociological Theory: Modelling Social Interaction, *Leading the seminar groups*  
+ <br/>  
+ <br/>  
+
+
+
+### Conference and Workshop Presentations
+<br/>
+
+- 2021. The Moral Foundations of Immoral Markets: Text Mining Feedbacks on Economic Exchanges in the Darknet, *„Markets & Values“ ECONtribute Summer-Workshop 2021: Social Image and Moral Behaviour*, *Online*  
+<br/>
+
+- 2021. The Moral Embeddedness of Cryptomarkets: Text Mining Feedbacks on Economic Exchanges in the Darknet, *13th Annual Conference of the International Network of Analytical Sociologists*, *Online*  
+<br/>
+
+- 2021. Positive Reputation Bias in Cryptomarkets: Validating Quantitative Ratings with Automatic Analyses of Feedback Texts, *IV ISA Forum of Sociology*, *Online*  
+<br/>
+
+- 2020. Presentation: Motives for leaving feedback after cryptomarket transactions - Evidence from automatic text analysis, *Text Analysis in Economics and the Social Sciences Workshop, University of East Anglia*, *Online*  
+ <br/>  
+ <br/>  
+
+
+
+### Additional Training
+<br/>
+
+- 2021. Medici Summer School: Cooperation in organizing and innovating, *Co-hosted by the University of Bologna, HEC Paris and MIT Sloan School of Management*
+<br/>
+<br/>
+
+- 2021. Summer Institute in Computational Social Science (SICSS) London, *Co-Hosted by the University College London, London School of Economics, Imperial College London, Greenwich University, and City, University of London*

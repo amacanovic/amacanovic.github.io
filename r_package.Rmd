@@ -8,7 +8,7 @@ output: html_document
 <div style="text-align: justify">
 I am currently working on developing an R package enabling researchers
 to explore their textual corpora using several measures from 
-computational lingustics.
+computational linguistics.
 
 These measures enable one to explore the "key" words in one corpus, compared to 
 the other, exploring important concepts over text categories, time, etc. 
