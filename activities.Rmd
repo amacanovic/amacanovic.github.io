@@ -24,6 +24,7 @@ output: html_document
 
 - 2021. Mining Everyday Texts for Sociologically Relevant Phenomena: Evidence from Online Market Exchanges, *15th ESA Conference*, *Online*
 <br/>
+<br/>
 
 - 2021. The Moral Foundations of Immoral Markets: Text Mining Feedbacks on Economic Exchanges in the Darknet, *„Markets & Values“ ECONtribute Summer-Workshop 2021: Social Image and Moral Behaviour*, *Online*  
 <br/>
