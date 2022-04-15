@@ -9,5 +9,5 @@ navbar:
       href: about.html
     - text: "Activities"
       href: activities.html
-    #- text: "R Packages"
-    #  href: r_package.html
+    - text: "R Packages"
+      href: r_package.html
