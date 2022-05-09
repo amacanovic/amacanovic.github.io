@@ -16,4 +16,7 @@ the other, exploring important concepts over text categories, time, etc.
 Current version, still under development, can be found on my
 [GitHub page](https://github.com/amacanovic/KeynessMeasures). 
 
+Together with students from Applied Data Science master's program, we are working
+on expanding the fuctionalities of this package and porting it to Python.
+
 </div>
