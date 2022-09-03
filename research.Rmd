@@ -121,14 +121,14 @@ interactions with each other can lead to structural inequalities.
   <p style="margin-left: 100px"> <details> <summary> <font size="3.5"> **Click for an overview of my projects on this topic.**</font> </summary>
   </br>
 
-<font size="4"> **I Heard it on the (Silk)Road: Who Introduces
+<font size="3.5"> **I Heard it on the (Silk)Road: Who Introduces
 Innovations in Online Communities?** </font>
   <br/>  
     
-  <font size="3">*With Damiano Morando, In preparation.*</font>
+  <font size="2.5">*With Damiano Morando, In preparation.*</font>
     
-  <font size = "3">
-Online communities plays a crucial role in generating and spreading innovation
+  <font size = "2.5">
+Online communities play a crucial role in generating and spreading innovation
 which affects both the online and offline world. Yet, despite knowing a lot about
 the reasons propelling individuals to join them, we still know relatively little
 about the members who introduce novelty into the community - innovators. We explore 
