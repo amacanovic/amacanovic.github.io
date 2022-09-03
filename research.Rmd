@@ -1,22 +1,243 @@
 ---
 title: "Research"
-output: html_document
+output:
+  html_document: default
 ---
 <div style="text-align: justify">
 
 <br/> 
-<br/> 
-<br/> 
-<br/> 
 
-<font size="5"> **Text mining individual states in short texts** </font>
+<font size="6"> Cooperation and trust in extra-legal contexts </font>
+  
+<font size="4"> I explore how agents sustain mutually beneficial cooperative
+  relations in adverse contexts. Illegal 
+  online marketplaces (cryptomarkets) present a unique context for studying
+  the emergence of cooperation in a context where legal controls are absent,
+  social actors are highly anonymous, and the overall levels of trust are low.
+  With collaborators, I study how socio-technical solutions (such as reputation systems) and 
+  informal mechanisms of social control (such as gossip) allow individuals to 
+  establish trade in such adverse extra-legal environments.
+  </br>
+  </font>
+  </br>
+  </br>
+  
+  <p style="margin-left: 100px"> <details> <summary> <font size="4"> **Click for an overview of my projects on this topic.**</font> </summary>
+  </br>
+  
+  <font size="4"> **The Moral Embeddedness of Illegal Markets** </font>
+  <br/>  
+    
+  <font size="3">*With Wojtek Przepiorka, Under Review.*</font>
+     
+    
+  <font size = "3">
+  In this work, we explore how reputation-based online markets have shifted the 
+    role that psychological mechanisms play in promoting mutually cooperative
+    market exchange from the stage of exchange to the stage of sharing information
+    about other traders in the market. We use text mining to infer reasons traders
+    had for sharing reputation information about other traders in illegal online marketplaces 
+    and zoom in on the essential tole of moral norms in solving the
+    second-order cooperation problem in large-scale anonymous internet marketplaces. 
+    </font>
+    
+------------
+
+  <font size="4"> **The Importance of Gossip in the Presence of Formalized Reputation Measures in Online Markets** </font>
+  <br/>  
+    
+  <font size="3">*With Wojtek Przepiorka and Vincent Buskens, In preparation.*</font>
+    
+  <font size = "3">
+    In complex societies with increasing role specialization
+    social control moves from the interpersonal to impersonal by 
+    being delegated to specially chosen agents and formalized institutions. The case 
+    of  online marketplaces where hundreds of thousands geographically 
+    distant anonymous traders engage in transactions showcases the success of socio-technical
+    solutions in supporting large-scale cooperation. In these markets, specially
+    delegated administrators, buyer protection technologies, and formalized reputation 
+    systems enforce sanctions against untrustworthy traders. Yet, it remains unclear 
+    whether informal information sharing through gossip still plays an important role in enforcing 
+    (informal) social control in such technologically advanced marketplaces. In this work, we explore
+    the interaction of gossip as a means of informal social control and more formalized
+    socio-technical control systems existing in online markets.
+    </font>
+
+</details> 
+
+<br/>
+<br/>
+
+-------------
+
+<font size="6"> Norm emergence and change </font>
+  
+<font size="4"> I am interested in how norms emerge to promote or block
+sucesfull cooperation in societies. In a project with collaborators, I use agent-based 
+models to explore how norms that signal group belonging emerge to solve cooperation problems
+in contexts where multiple groups with conflicting interests encounter each other.
+In such contexts, signalling one's group behaviour can help establish parochial
+cooperation and benefit exploited minority groups. I am further interested in understanding 
+conditions under which such signalling norms  become inefficient and 
+damage the well-being of the groups that enforce them.
+</font>
+
+  </br>
+  
+  <p style="margin-left: 100px"> <details> <summary> <font size="4"> **Click for an overview of my project on this topic.**</font> </summary>
+  </br>
+
+  <font size="4"> **Signals of Belonging: Emergence of Signalling Norms as Facilitators of Parochial Cooperation ** </font>
+  <br/>  
+    
+  <font size="3">*With Milena Tsvetkova, Wojtek Przepiorka, and Vincent Buskens, In preparation.*</font>
+    
+  <font size = "3">
+Mechanisms of social control at times reinforce norms that appear individually, or even collectively, harmful or “wasteful” – such as mutilation practices or extensive body tattoos. This project explores the suggestion that such norms emerge as outcomes of signalling games and promote parochial cooperation in contexts where different groups
+have conflicting interests. To understand when signalling norms emerge as solutions to the trust problem arising in such environments, we build an agent-based model based on the trust game with signalling: in this game, signalling can help individuals reveal their group membership to others they are encountering – and thus enforce and sustain
+parochial cooperation.
+
+</font>
+    
+</details> 
+
+<br/>
+<br/>
+
+
+-------------
+
+<font size="6"> Networks, culture, innovation and inequality </font>
+  
+<font size="4"> I am intrigued by how the structure of social networks affects 
+outcomes in different social groups and communities. On the one hand, I am
+interested in how social network structure and cultural integration affect
+the capacity of (online) communities to produce innovation. On the other hand, I am
+also intrigued by how numerical properties of different social groups engaging in 
+interactions with each other can lead to structural inequalities. 
+
+  </br>
+  
+  <p style="margin-left: 100px"> <details> <summary> <font size="4"> **Click for an overview of my projects on this topic.**</font> </summary>
+  </br>
+
+<font size="4"> **I Heard it on the (Silk)Road: Who Introduces
+Innovations in Online Communities?** </font>
+  <br/>  
+    
+  <font size="3">*With Damiano Morando, In preparation.*</font>
+    
+  <font size = "3">
+Online communities plays a crucial role in generating and spreading innovation
+which affects both the online and offline world. Yet, despite knowing a lot about
+the reasons propelling individuals to join them, we still know relatively little
+about the members who introduce novelty into the community - innovators. We explore 
+the structural and cultural embeddedness of members who introduce linguistic and 
+knowledge-based innovations into a large online forum. We find evidence of the 
+importance of network brokerage for one's innovative potential and conclude that
+cultural embeddedness promotes innovativeness - but only to a certain extent; 
+being too culturally embedded, on the other hand, impedes on one's capacity to 
+introduce new ideas.
+</font>
+
+-------------
+
+<font size="4"> **Minority group size moderates inequity-reducing strategies in homophilic networks** </font>
+  <br/>  
+    
+  <font size="3">*With Sam Zhang and Travis Holmes, In preparation.*</font>
+    
+  <font size = "3">
+  
+Minorities are often disadvantaged in social networks, and their disadvantage
+can arise in the presence of two ubiquitous features of social networks: homophily
+and preferential attachment. This disadvantage often translates to less visibility
+and lower access to valuable social capital of minority group members. In this 
+paper, we use the directed network model with preferential attachment and homophily 
+(DPAH) to evaluate how minority groups fare in the presence of additional groups
+that could bridge the majority/minority gap, such as majority group members who 
+support the minority group (allies), and minority group members that are incorporated 
+into the majority group. Our results show that the marginal benefit of majority group
+members becoming allies increases with minority group size, and larger minority 
+groups reach equity with a smaller proportion of incorporated members. 
+These results suggest that interventions on structural inequities on networks 
+can depend sensitively on the relative sizes of the groups involved. 
+Our models also reveal the increasing difficulty of a minority group achieving 
+parity as the group shrinks.
+
+</font>
+-----------
+    
+</details> 
+
+<br/>
+<br/>
+
+
+-------------
+
+<font size="6"> Text mining for sociological research </font>
+  
+<font size="4"> I am interested in better understanding how meaning
+can be extracted from large amounts of textual data and used in sociological
+theory building and testing. I explore how automatic text analysis can be used by
+social scientist and explore the benefits and limitations of working with
+big data sets and computational methods for text analysis.</font>
+</br>
+</br>
+
+<details> <summary> <font size="4"> **Click for an overview of my projects on this topic.**</font> </summary>
+</br>
+
+
+<font size="4"> **Text mining for social science – The state and the future of computational text analysis in sociology** </font>
  <br/>  
  
-<font size="3">*Preprint available [here](https://osf.io/preprints/socarxiv/cerzs/).</font>*
+<font size="3">*Article published in Social Science Research available [here](https://authors.elsevier.com/sd/article/S0049-089X(22)00090-4).*</font>
 
-![Alt text](./Research pictures/tm_1.jpg){width=450px, height=450px}\
+<font size = "3">
+The emergence of big data and computational tools has introduced new possibilities 
+for using large-scale textual sources in sociological research. Recent work in 
+sociology of culture, science, and economic sociology has shown how computational 
+text analysis can be used in theory building and testing. This review starts with 
+an introduction of the history of computer-assisted text analysis in sociology and 
+then proceeds to discuss five families of computational methods used in contemporary
+research. Using exemplary studies, it shows how dictionary methods, semantic and
+network analysis tools, language models, unsupervised, and supervised machine 
+learning can assist sociologists with different analytical tasks. After presenting
+recent methodological developments, this review summarizes several important 
+implications of using large datasets and computational methods to infer complex
+meaning in texts. Finally, it calls researchers from different methodological 
+traditions to adopt text mining tools while remaining mindful of lessons learned 
+from working with conventional data and methods. </font>
+ 
+
+--------------- 
+
+<font size="4"> **Text mining individual states in short texts** </font>
+ <br/>  
+ 
+<font size="3">*With Wojtek Przepiorka, Under Review. Preprint available [here](https://osf.io/preprints/socarxiv/cerzs/).*</font>
+
 
 <font size="3">
-Sociologists have successfully used text mining to investigate discourse using news articles, official documents, and other sources. Yet, the potential of exploring millions of short texts generated spontaneously by individuals in online environments has remained untapped within the field. To fill this gap, we show how such texts can inform sociologists about individual internal states such as norms, motives, and stances, which thus far have been mainly elicited using surveys. We assess the performance of 581 variations of three text mining approaches–dictionary methods, supervised, and unsupervised machine learning–against the benchmark of texts coded by humans for complex schemes capturing individuals’ internal states. Our analysis includes coding feedback texts from an online market for motives for leaving feedback (N = 2,000) and tweet texts for moral values expressed in text (N = 3,832). We describe challenges arising with these different approaches and provide best-practice advice for future applications.</font>
+Sociologists have successfully used text mining to investigate discourse using news
+articles, official documents, and other sources. Yet, the potential of exploring 
+millions of short texts generated spontaneously by individuals in online environments
+has remained untapped within the field. To fill this gap, we show how such texts 
+can inform sociologists about individual internal states such as norms, motives, 
+and stances, which thus far have been mainly elicited using surveys. We assess 
+the performance of 581 variations of three text mining approaches–dictionary methods,
+supervised, and unsupervised machine learning–against the benchmark of texts 
+coded by humans for complex schemes capturing individuals’ internal states. 
+Our analysis includes coding feedback texts from an online market for motives for
+leaving feedback (N = 2,000) and tweet texts for moral values expressed in text 
+(N = 3,832). We describe challenges arising with these different approaches and 
+provide best-practice advice for future applications.</font>
 
---------------
+
+</details> 
+<br/>
+<br/>
+
+-------------------------

@@ -9,21 +9,81 @@ output: html_document
 ![Alt text](./profile_photo_small_2.jpg){width=170px, height=170px}\
 
 
+</br>
+
 <div style="text-align: justify">
+<font size="4"> 
 I am a PhD Candidate in Sociology at the Department of Sociology, Utrecht 
 University (UU) and the Interuniversity Center for Social Science Theory and 
-Methodology [(ICS)](http://ics-graduateschool.nl/).
-
-
-My PhD research is concerned with cooperation of agents in extra-legal 
+Methodology [(ICS)](http://ics-graduateschool.nl/). My research is concerned with cooperation of agents in extra-legal 
 environments and the potential negative consequences of such cooperation. 
 Currently, I am exploring the functioning of reputation systems in cryptomarkets 
 utilizing automatic text analysis. I am working under the supervision of [dr. 
 Wojtek Przepiorka](https://www.uu.nl/medewerkers/WPrzepiorka) and 
 [prof.dr. Vincent Buskens](https://www.uu.nl/medewerkers/vbuskens). 
 
+I am the Student Representative of the Rationality and Society Section of the
+American Sociological Association for 2022-2023. I am also a Junior Member of
+Centre for Complex Systems Studies (CCSS) of the Utrecht University.
 
-I have a BA in Sociology (Track: Economics) from the University of Belgrade and 
-a MSc in Economics (Track: Behavioural Economics and Game Theory) from the 
-University of Amsterdam.
+My areas of interest include trust and cooperation, social norms, economic sociology, and
+sociology of culture. I am particularly interested in how individuals across 
+different social groups and contexts come to trust each other and successfully cooperate, 
+developing and changing shared social norms and institutions along the way. I am also intrigued by 
+how numerical properties of groups can lead to structural inequalities in societies, 
+and how these inequalities can be remedied. Finally, I have a substantive interest 
+in how individuals and groups innovate and how communities evolve. 
+To study these topics, I use computational methods, including machine learning, 
+automatic text analysis, agent-based modeling, statistical models, and network analysis. 
+Broadly, I am interested in the study of societies as complex systems.
+
+Below you can find a brief list of my publications and work in progress. 
+You can find more detailed information on my research projects [here](https://amacanovic.github.io/research.html)
+and read about my professional
+and teaching activities [here](https://amacanovic.github.io/activities.html).
+You can also find my up-to-date 
+CV [here](https://amacanovic.github.io/Macanovic_CV_3_9.pdf). 
+
+
+Finally, please feel free to contact me at: **a.macanovic [at] uu [dot] nl **
+
+</font>
 </div>
+-----------------
+</br>
+</br>
+</br>
+<font size="4"> **Peer-reviewed publications** </font>
+
+ - <font size="3.5"> **Macanovic, A.** 2022. Text Mining for Social Science – The State and the
+Future of Computational Text Analysis in Sociology. *Social Science
+Research*, https://doi.org/10.1016/j.ssresearch.2022.102784 </font>
+
+</br>
+
+
+<font size="4"> **Working papers** </font>
+
+ - <font size="3.5"> **Macanovic, A.**, and Przepiorka, W. 2022. A Systematic Evaluation of
+Text Mining Methods for Short Texts: Mapping Individuals’ Internal
+States from Feedback Texts and Tweets. Preprint: https://osf.io/preprints/socarxiv/cerzs </font>
+
+</br>
+
+<font size="4"> **Work in progress** </font>
+
+ - <font size="3.5"> **Macanovic, A.**, Przepiorka, W., and Buskens, V. Does the Grapevine Still
+Matter? The Importance of Gossip in the Presence of Formalized
+Reputation Measures in Online Markets. *In preparation.* </font>
+
+
+ - <font size="3.5"> **Macanovic, A.**, Tsvetkova, M., Przepiorka, W., and Buskens, V. Signals of
+Belonging: Emergence of Signalling Norms as Facilitators of Parochial
+Cooperation. *In preparation.* </font>
+
+
+ - <font size="3.5"> **Macanovic, A.**, and Morando, D. I Heard it on the (Silk)Road: Who
+Introduces Innovations in Online Communities? *In preparation.* </font>
+
+
+ - <font size="3.5"> Zhang, S., **Macanovic, A.**, and Holmes, T. Minority group size moderates inequity-reducing strategies in homophilic networks. *In preparation.* </font>

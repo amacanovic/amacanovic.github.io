@@ -17,12 +17,53 @@ output: html_document
 <br/>
 <br/>
 
-- 2020, 2021.  Utrecht University, Advanced Sociological Theory: Modelling Social Interaction, *Leading the seminar groups*  
+- 2020, 2021, 2022.  Utrecht University, Advanced Sociological Theory: Modelling Social Interaction, *Leading the seminar groups*  
  <br/>  
  <br/>  
+ 
+
+### Professional service and affiliations
+<br/>
+
+- **Student Representative**, ASA Rationality and Society section, Academic year
+2022 - 2023.
+<br/>
+<br/>
+
+- **Junior member**, Centre for Complex Systems Studies (CCSS), Utrecht University. 
+<br/>
+<br/>
+<br/>  
+<br/>  
+ 
 
 
+### Additional Training
+<br/>
 
+- 2022. Visiting Scholar, *Hosted by dr. Milena Tsvetkova, Department of Methodology
+London School of Economics and Political Science (LSE), London.*
+<br/>
+<br/>
+
+- 2022. Complexity-GAINs International Summer School, *Co-hosted by the Santa Fe Institute, the Max Planck Institute for Mathematics in the Sciences and Hamburg University of Technology (Germany), Complexity Science Hub Vienna (Austria), Quantitative Life Sciences, International Center for Theoretical Physics (Italy), and Institute for Advanced Studies, University of Amsterdam (Netherlands).*
+<br/>
+<br/>
+
+- 2021. CNRS Thematic School: Agent-based Modelling in Sociology with NetLogo, *Co-hosted by the National Center for Scientific Research (CNRS) and the Sorbonne Research the Sorbonne Research Group in the Methods of Sociological Analysis (GEMASS)*
+<br/>
+<br/>
+
+- 2021. Medici Summer School: Cooperation in organizing and innovating, *Co-hosted by the University of Bologna, HEC Paris and MIT Sloan School of Management*
+<br/>
+<br/>
+
+- 2021. Summer Institute in Computational Social Science (SICSS) London, *Co-Hosted by the University College London, London School of Economics, Imperial College London, Greenwich University, and City, University of London*
+
+ <br/>  
+ <br/>  
+ 
+ 
 ### Conference and Workshop Presentations
 <br/>
 
@@ -47,16 +88,3 @@ output: html_document
  <br/>
 
 
-
-### Additional Training
-<br/>
-
-- 2021. CNRS Thematic School: Agent-based Modelling in Sociology with NetLogo, *Co-hosted by the National Center for Scientific Research (CNRS) and the Sorbonne Research the Sorbonne Research Group in the Methods of Sociological Analysis (GEMASS)*
-<br/>
-<br/>
-
-- 2021. Medici Summer School: Cooperation in organizing and innovating, *Co-hosted by the University of Bologna, HEC Paris and MIT Sloan School of Management*
-<br/>
-<br/>
-
-- 2021. Summer Institute in Computational Social Science (SICSS) London, *Co-Hosted by the University College London, London School of Economics, Imperial College London, Greenwich University, and City, University of London*
