@@ -7,9 +7,9 @@ output:
 
 <br/> 
 
-<font size="6"> Cooperation and trust in extra-legal contexts </font>
+<font size="5.5"> Cooperation and trust in extra-legal contexts </font>
   
-<font size="4"> I explore how agents sustain mutually beneficial cooperative
+<font size="3.5"> I explore how agents sustain mutually beneficial cooperative
   relations in adverse contexts. Illegal 
   online marketplaces (cryptomarkets) present a unique context for studying
   the emergence of cooperation in a context where legal controls are absent,
@@ -22,16 +22,16 @@ output:
   </br>
   </br>
   
-  <p style="margin-left: 100px"> <details> <summary> <font size="4"> **Click for an overview of my projects on this topic.**</font> </summary>
+  <p style="margin-left: 100px"> <details> <summary> <font size="3.5"> **Click for an overview of my projects on this topic.**</font> </summary>
   </br>
   
-  <font size="4"> **The Moral Embeddedness of Illegal Markets** </font>
+  <font size="3.5"> **The Moral Embeddedness of Illegal Markets** </font>
   <br/>  
     
-  <font size="3">*With Wojtek Przepiorka, Under Review.*</font>
+<font size = "2.5">*With Wojtek Przepiorka, Under Review.*</font>
      
     
-  <font size = "3">
+<font size = "2.5">
   In this work, we explore how reputation-based online markets have shifted the 
     role that psychological mechanisms play in promoting mutually cooperative
     market exchange from the stage of exchange to the stage of sharing information
@@ -43,12 +43,12 @@ output:
     
 ------------
 
-  <font size="4"> **The Importance of Gossip in the Presence of Formalized Reputation Measures in Online Markets** </font>
+  <font size="3.5"> **The Importance of Gossip in the Presence of Formalized Reputation Measures in Online Markets** </font>
   <br/>  
     
-  <font size="3">*With Wojtek Przepiorka and Vincent Buskens, In preparation.*</font>
+<font size = "2.5">*With Wojtek Przepiorka and Vincent Buskens, In preparation.*</font>
     
-  <font size = "3">
+<font size = "2.5">
     In complex societies with increasing role specialization
     social control moves from the interpersonal to impersonal by 
     being delegated to specially chosen agents and formalized institutions. The case 
@@ -70,9 +70,9 @@ output:
 
 -------------
 
-<font size="6"> Norm emergence and change </font>
+<font size="5.5"> Norm emergence and change </font>
   
-<font size="4"> I am interested in how norms emerge to promote or block
+<font size = "3.5"> I am interested in how norms emerge to promote or block
 sucesfull cooperation in societies. In a project with collaborators, I use agent-based 
 models to explore how norms that signal group belonging emerge to solve cooperation problems
 in contexts where multiple groups with conflicting interests encounter each other.
@@ -84,15 +84,15 @@ damage the well-being of the groups that enforce them.
 
   </br>
   
-  <p style="margin-left: 100px"> <details> <summary> <font size="4"> **Click for an overview of my project on this topic.**</font> </summary>
+  <p style="margin-left: 100px"> <details> <summary> <font size="3.5"> **Click for an overview of my project on this topic.**</font> </summary>
   </br>
 
-  <font size="4"> **Signals of Belonging: Emergence of Signalling Norms as Facilitators of Parochial Cooperation ** </font>
+  <font size="3.5"> **Signals of Belonging: Emergence of Signalling Norms as Facilitators of Parochial Cooperation ** </font>
   <br/>  
     
-  <font size="3">*With Milena Tsvetkova, Wojtek Przepiorka, and Vincent Buskens, In preparation.*</font>
+<font size = "2.5">*With Milena Tsvetkova, Wojtek Przepiorka, and Vincent Buskens, In preparation.*</font>
     
-  <font size = "3">
+<font size = "2.5">
 Mechanisms of social control at times reinforce norms that appear individually, or even collectively, harmful or “wasteful” – such as mutilation practices or extensive body tattoos. This project explores the suggestion that such norms emerge as outcomes of signalling games and promote parochial cooperation in contexts where different groups
 have conflicting interests. To understand when signalling norms emerge as solutions to the trust problem arising in such environments, we build an agent-based model based on the trust game with signalling: in this game, signalling can help individuals reveal their group membership to others they are encountering – and thus enforce and sustain
 parochial cooperation.
@@ -107,9 +107,9 @@ parochial cooperation.
 
 -------------
 
-<font size="6"> Networks, culture, innovation and inequality </font>
+<font size="5.5"> Networks, culture, innovation and inequality </font>
   
-<font size="4"> I am intrigued by how the structure of social networks affects 
+<font size="3.5"> I am intrigued by how the structure of social networks affects 
 outcomes in different social groups and communities. On the one hand, I am
 interested in how social network structure and cultural integration affect
 the capacity of (online) communities to produce innovation. On the other hand, I am
@@ -118,7 +118,7 @@ interactions with each other can lead to structural inequalities.
 
   </br>
   
-  <p style="margin-left: 100px"> <details> <summary> <font size="4"> **Click for an overview of my projects on this topic.**</font> </summary>
+  <p style="margin-left: 100px"> <details> <summary> <font size="3.5"> **Click for an overview of my projects on this topic.**</font> </summary>
   </br>
 
 <font size="4"> **I Heard it on the (Silk)Road: Who Introduces
@@ -142,12 +142,12 @@ introduce new ideas.
 
 -------------
 
-<font size="4"> **Minority group size moderates inequity-reducing strategies in homophilic networks** </font>
+<font size="3.5"> **Minority group size moderates inequity-reducing strategies in homophilic networks** </font>
   <br/>  
     
-  <font size="3">*With Sam Zhang and Travis Holmes, In preparation.*</font>
+<font size = "2.5">*With Sam Zhang and Travis Holmes, In preparation.*</font>
     
-  <font size = "3">
+<font size = "2.5">
   
 Minorities are often disadvantaged in social networks, and their disadvantage
 can arise in the presence of two ubiquitous features of social networks: homophily
@@ -176,9 +176,9 @@ parity as the group shrinks.
 
 -------------
 
-<font size="6"> Text mining for sociological research </font>
+<font size="5.5"> Text mining for sociological research </font>
   
-<font size="4"> I am interested in better understanding how meaning
+<font size="3.5"> I am interested in better understanding how meaning
 can be extracted from large amounts of textual data and used in sociological
 theory building and testing. I explore how automatic text analysis can be used by
 social scientist and explore the benefits and limitations of working with
@@ -186,16 +186,16 @@ big data sets and computational methods for text analysis.</font>
 </br>
 </br>
 
-<details> <summary> <font size="4"> **Click for an overview of my projects on this topic.**</font> </summary>
+<details> <summary> <font size="3.5"> **Click for an overview of my projects on this topic.**</font> </summary>
 </br>
 
 
-<font size="4"> **Text mining for social science – The state and the future of computational text analysis in sociology** </font>
+<font size="3.5"> **Text mining for social science – The state and the future of computational text analysis in sociology** </font>
  <br/>  
  
-<font size="3">*Article published in Social Science Research available [here](https://authors.elsevier.com/sd/article/S0049-089X(22)00090-4).*</font>
+<font size="2.5">*Article published in Social Science Research available [here](https://authors.elsevier.com/sd/article/S0049-089X(22)00090-4).*</font>
 
-<font size = "3">
+<font size = "2.5">
 The emergence of big data and computational tools has introduced new possibilities 
 for using large-scale textual sources in sociological research. Recent work in 
 sociology of culture, science, and economic sociology has shown how computational 
@@ -217,10 +217,10 @@ from working with conventional data and methods. </font>
 <font size="4"> **Text mining individual states in short texts** </font>
  <br/>  
  
-<font size="3">*With Wojtek Przepiorka, Under Review. Preprint available [here](https://osf.io/preprints/socarxiv/cerzs/).*</font>
+<font size = "2.5">*With Wojtek Przepiorka, Under Review. Preprint available [here](https://osf.io/preprints/socarxiv/cerzs/).*</font>
 
 
-<font size="3">
+<font size = "2.5">
 Sociologists have successfully used text mining to investigate discourse using news
 articles, official documents, and other sources. Yet, the potential of exploring 
 millions of short texts generated spontaneously by individuals in online environments
