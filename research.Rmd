@@ -41,8 +41,8 @@ output:
     second-order cooperation problem in large-scale anonymous internet marketplaces. 
     </font>
     
-------------
-
+ <br>
+ 
   <font size="3.5"> **The Importance of Gossip in the Presence of Formalized Reputation Measures in Online Markets** </font>
   <br/>  
     
@@ -62,13 +62,13 @@ output:
     the interaction of gossip as a means of informal social control and more formalized
     socio-technical control systems existing in online markets.
     </font>
-
 </details> 
 
 <br/>
 <br/>
 
--------------
+
+---------------------
 
 <font size="5.5"> Norm emergence and change </font>
   
@@ -98,14 +98,14 @@ have conflicting interests. To understand when signalling norms emerge as soluti
 parochial cooperation.
 
 </font>
-    
 </details> 
 
 <br/>
 <br/>
 
 
--------------
+---------------------
+
 
 <font size="5.5"> Networks, culture, innovation and inequality </font>
   
@@ -127,7 +127,7 @@ Innovations in Online Communities?** </font>
     
   <font size="2.5">*With Damiano Morando, In preparation.*</font>
     
-  <font size = "2.5">
+<font size = "2.5">
 Online communities play a crucial role in generating and spreading innovation
 which affects both the online and offline world. Yet, despite knowing a lot about
 the reasons propelling individuals to join them, we still know relatively little
@@ -140,7 +140,7 @@ being too culturally embedded, on the other hand, impedes on one's capacity to
 introduce new ideas.
 </font>
 
--------------
+<br>
 
 <font size="3.5"> **Minority group size moderates inequity-reducing strategies in homophilic networks** </font>
   <br/>  
@@ -148,7 +148,6 @@ introduce new ideas.
 <font size = "2.5">*With Sam Zhang and Travis Holmes, In preparation.*</font>
     
 <font size = "2.5">
-  
 Minorities are often disadvantaged in social networks, and their disadvantage
 can arise in the presence of two ubiquitous features of social networks: homophily
 and preferential attachment. This disadvantage often translates to less visibility
@@ -164,9 +163,8 @@ These results suggest that interventions on structural inequities on networks
 can depend sensitively on the relative sizes of the groups involved. 
 Our models also reveal the increasing difficulty of a minority group achieving 
 parity as the group shrinks.
-
 </font>
------------
+
     
 </details> 
 
@@ -212,7 +210,7 @@ traditions to adopt text mining tools while remaining mindful of lessons learned
 from working with conventional data and methods. </font>
  
 
---------------- 
+<br>
 
 <font size="4"> **Text mining individual states in short texts** </font>
  <br/>  

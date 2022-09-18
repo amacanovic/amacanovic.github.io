@@ -11,7 +11,7 @@
 
 
 
-<title>Keyness Measures</title>
+<title>R packages</title>
 
 <script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -310,22 +310,52 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Keyness Measures</h1>
+<h1 class="title toc-ignore">R packages</h1>
 
 </div>
 
 
-<br> <br>
+<p><br> <br></p>
+<div id="keynessmeasures" class="section level3">
+<h3>KeynessMeasures</h3>
 <div style="text-align: justify">
 <p>I am currently working on developing an R package enabling
 researchers to explore their textual corpora using several measures from
-computational linguistics.</p>
-<p>These measures enable one to explore the “key” words in one corpus,
-compared to the other, exploring important concepts over text
-categories, time, etc.</p>
-<p>Current version, still under development, can be found on my <a
-href="https://github.com/amacanovic/KeynessMeasures">GitHub
-page</a>.</p>
+computational linguistics. My package allows researchers to calculate a
+range of word keyness metrics, which allow one to find the “key” words
+characteristic of a textual corpus. It supports calculation of both
+statistical significance (log-likelihood ration, bayesian information
+criterion) and effect size (%DIFF, relative risk, log ratio, odds ratio)
+measures of word keyness.</p>
+<p>The current version, still under development, can be found on my
+GitHub, in the <a
+href="https://github.com/amacanovic/KeynessMeasures">KeynessMeasures</a>
+repository.</p>
+</div>
+<hr />
+</div>
+<div id="sklearnr.measures" class="section level3">
+<h3>sklearnR.measures</h3>
+<div style="text-align: justify">
+<p>This package calculates a range of different F-scores and accuracy
+scores for multi-class and multi-label classification problems in
+R.<br />
+Its goal is to simplify the calculation of multi-class and multi-label
+classification measures in R. Currently, different R packages implement
+different types of averaging for measure calculation. Especially when it
+comes to multi-label problems, this can cause issues with interpretation
+and comparability of results across different applications. In the
+documentation, we clearly denote which metrics match those output by the
+sklearn.metrics functions - which are most widely used in
+implementations using python - but also those given by several R
+packages that offer options for multi-class (yardstick package) or
+multi-label (HEMDAG and mlr) classification performance measure
+calculation.</p>
+<p>The current version, still under development, can be found on my
+GitHub, in the <a
+href="https://github.com/amacanovic/sklearnR.metrics">sklearnR.metrics</a>
+repository.</p>
+</div>
 </div>
 
 
