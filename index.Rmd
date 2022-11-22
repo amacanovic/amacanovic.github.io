@@ -22,9 +22,11 @@ utilizing automatic text analysis. I am working under the supervision of [dr.
 Wojtek Przepiorka](https://www.uu.nl/medewerkers/WPrzepiorka) and 
 [prof.dr. Vincent Buskens](https://www.uu.nl/medewerkers/vbuskens). 
 
-I am the Student Representative of the Rationality and Society Section of the
-American Sociological Association for 2022-2023. I am also a Junior Member of
-Centre for Complex Systems Studies (CCSS) of the Utrecht University.
+I am the Student Representative of the 
+[Rationality and Society section](https://sites.google.com/site/rationalityandsocietysection/?pli=1) 
+of the American Sociological Association for 2022-2023. I am also a
+Junior Member of the [Centre for Complex Systems Studies (CCSS)](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss/) 
+of the Utrecht University and the Vice-chair of the [Young Complexity Researchers Utrecht (YCRU)](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss/about-us/young-complexity-researchers-utrecht-ycru).
 
 My areas of interest include trust and cooperation, social norms, economic sociology, and
 sociology of culture. I am particularly interested in how individuals across 
@@ -41,7 +43,7 @@ Below you can find a brief list of my publications and work in progress.
 You can find more detailed information on my research projects [here](https://amacanovic.github.io/research.html)
 and read about my professional
 and teaching activities [here](https://amacanovic.github.io/activities.html).
-You can also find my up-to-date CV [here](https://amacanovic.github.io/Macanovic_CV_3_9.pdf), 
+You can also find my up-to-date CV [here](https://amacanovic.github.io/Macanovic_CV_22_11.pdf), 
 and visit my [Utrecht University home page](https://www.uu.nl/medewerkers/AMacanovic)
 or [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=s5D67kwAAAAJ).
 

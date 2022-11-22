@@ -25,12 +25,17 @@ output: html_document
 ### Professional service and affiliations
 <br/>
 
-- **Student Representative**, ASA Rationality and Society section, Academic year
+- **Vice-chair**, [Young Complexity Researchers Utrecht (YCRU)](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss/about-us/young-complexity-researchers-utrecht-ycru), Academic year
 2022 - 2023.
 <br/>
 <br/>
 
-- **Junior member**, Centre for Complex Systems Studies (CCSS), Utrecht University. 
+- **Student Representative**, ASA [Rationality and Society section](https://sites.google.com/site/rationalityandsocietysection/?pli=1), Academic year
+2022 - 2023.
+<br/>
+<br/>
+
+- **Junior member**, [Centre for Complex Systems Studies (CCSS)](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss/), Utrecht University. 
 <br/>
 <br/>
 <br/>  

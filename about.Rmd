@@ -3,7 +3,7 @@ title: "CV"
 output: html_document
 ---
 
-You can find my CV [here](https://amacanovic.github.io/Macanovic_CV_3_9.pdf)
+You can find my CV [here](https://amacanovic.github.io/Macanovic_CV_22_11.pdf)
 or below.
 
-![](./Macanovic_CV_3_9.pdf){width=100% height=1000}
+![](./Macanovic_CV_22_11.pdf){width=100% height=1000}
