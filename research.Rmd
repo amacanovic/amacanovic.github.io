@@ -112,32 +112,36 @@ parochial cooperation.
 <font size="3.5"> I am intrigued by how the structure of social networks affects 
 outcomes in different social groups and communities. On the one hand, I am
 interested in how social network structure and cultural integration affect
-the capacity of (online) communities to produce innovation. On the other hand, I am
-also intrigued by how numerical properties of different social groups engaging in 
-interactions with each other can lead to structural inequalities. 
+the capacity of (online) communities to develop shared culture and
+innovate. On the other hand, I am also intrigued by how numerical properties 
+of different social groups engaging ininteractions with each other can lead to 
+structural inequalities. 
 
   </br>
   
   <p style="margin-left: 100px"> <details> <summary> <font size="3.5"> **Click for an overview of my projects on this topic.**</font> </summary>
   </br>
 
-<font size="3.5"> **I Heard it on the (Silk)Road: Who Introduces
-Innovations in Online Communities?** </font>
+<font size="3.5"> **“I Heard it on the (Silk)Road”:
+Structural and Cultural Pathways to Novelty Introduction in an Online Community ** </font>
   <br/>  
     
   <font size="2.5">*With Damiano Morando, In preparation.*</font>
     
 <font size = "2.5">
 Online communities play a crucial role in generating and spreading innovation
-which affects both the online and offline world. Yet, despite knowing a lot about
-the reasons propelling individuals to join them, we still know relatively little
+which affects both the online and offline world. Yet, we still know relatively little
 about the members who introduce novelty into the community - innovators. We explore 
 the structural and cultural embeddedness of members who introduce linguistic and 
-knowledge-based innovations into a large online forum. We find evidence of the 
-importance of network brokerage for one's innovative potential and conclude that
-cultural embeddedness promotes innovativeness - but only to a certain extent; 
-being too culturally embedded, on the other hand, impedes on one's capacity to 
-introduce new ideas.
+knowledge-based innovations into a large online forum. First, we find that the 
+effect of being structurally embedded in the community is moderated by the content
+one is exposed to. That is, less embedded individuals (i.e., brokers) benefit from
+access to diverse content in the online community;while embedded individuals 
+benefit from seeing similar content.Second, we show that being culturally embedded
+in the community has an inverse U shape effect over the likelihood 
+introducing an innovation. We find evidence for the tension between the 
+norm-following required for meaningful innovations and the norm-breaking 
+that pushes one to “think outside of the box”. 
 </font>
 
 <br>
