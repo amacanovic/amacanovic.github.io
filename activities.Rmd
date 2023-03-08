@@ -66,24 +66,45 @@ London School of Economics and Political Science (LSE), London.*
 - 2021. Summer Institute in Computational Social Science (SICSS) London, *Co-Hosted by the University College London, London School of Economics, Imperial College London, Greenwich University, and City, University of London*
 
  <br/>  
- <br/>  
+ <br/> 
  
+### Invited talks
+<br/>
+
+- 2023. Minority Group Size Moderates Inequity-Reducing Strategies in Homophilic Networks, *Centre for Complex Systems Studies (CCSS), Utrecht University*
+<br/>
+<br/>
+
+- 2023. “I Heard it on the (Silk)Road”: Who Introduces
+Innovations in Online Communities?, *Summer Institute in Computational Social Science (SICSS) London*
+<br/>
+<br/>
+
+<br/>  
+<br/> 
  
 ### Conference and Workshop Presentations
 <br/>
 
-<!-- - 2021. The Moral Foundations of Immoral Markets: Text Mining Feedbacks on Economic Exchanges in the Darknet, *3rd Academy of Sociology (AS) Conference*, *Online*   -->
-<!-- <br/> -->
+- 2023. Text Mining in Social Sciences: A Methods Overview, *DYSTENA Workshop: Gaining Insights into Social Media Discourse by Combining Text and Network Analyses*, *Online*
+<br/>
+<br/>
+
+- 2022. Computational Text Analysis for Sociology – Opportunities and Challenges, *ODISSEI Conference for Social Science in the Netherlands 2022, Utrecht*
+<br/>
+<br/>
+
+- 2022. Does the Grapevine Still Matter? The Importance of Gossip in the Presence of Formalized Reputation Measures in Online Markets, *International Conference on Social Dilemmas (ICSD) 2022, University of Copenhagen, Copenhagen*
+<br/>
+<br/>
+
+- 2022. Mapping Individuals’ Internal States from Tweets and Feedback Texts: A Systematic Evaluation of Text Mining Methods for Short Texts, *14th Annual Conference of the International Network of Analytical Sociologists (INAS), European University Institute, Florence*
+<br/>
+<br/>
 
 - 2021. Mining Everyday Texts for Sociologically Relevant Phenomena: Evidence from Online Market Exchanges, *15th ESA Conference*, *Online*
 <br/>
 <br/>
-
-<!-- - 2021. The Moral Foundations of Immoral Markets: Text Mining Feedbacks on Economic Exchanges in the Darknet, *„Markets & Values“ ECONtribute Summer-Workshop 2021: Social Image and Moral Behaviour*, *Online*   -->
-<!-- <br/> -->
-
-<!-- - 2021. The Moral Embeddedness of Cryptomarkets: Text Mining Feedbacks on Economic Exchanges in the Darknet, *13th Annual Conference of the International Network of Analytical Sociologists*, *Online*   -->
-<!-- <br/> -->
 
 - 2021. Positive Reputation Bias in Cryptomarkets: Validating Quantitative Ratings with Automatic Analyses of Feedback Texts, *IV ISA Forum of Sociology*, *Online*
 <br/>

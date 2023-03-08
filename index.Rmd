@@ -43,7 +43,7 @@ Below you can find a brief list of my publications and work in progress.
 You can find more detailed information on my research projects [here](https://amacanovic.github.io/research.html)
 and read about my professional
 and teaching activities [here](https://amacanovic.github.io/activities.html).
-You can also find my up-to-date CV (November 2022) [here](https://amacanovic.github.io/Macanovic_CV_9_12.pdf), 
+You can also find my up-to-date CV (March 2023) [here](https://amacanovic.github.io/Macanovic_CV_7_3_2023.pdf), 
 and visit my [Utrecht University home page](https://www.uu.nl/medewerkers/AMacanovic)
 or [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=s5D67kwAAAAJ).
 
@@ -69,9 +69,9 @@ Research*, https://doi.org/10.1016/j.ssresearch.2022.102784 </font>
 
  - <font size="3.5"> **Macanovic, A.**, and Przepiorka, W. 2022. A Systematic Evaluation of
 Text Mining Methods for Short Texts: Mapping Individuals’ Internal
-States from Feedback Texts and Tweets. Preprint: https://osf.io/preprints/socarxiv/cerzs </font>
+States from Feedback Texts and Tweets. *Under review.* Preprint: https://osf.io/preprints/socarxiv/cerzs </font>
 
-- <font size="3.5"> **Macanovic, A.**, and Morando, D.* “I Heard it on the (Silk)Road”: Structural and Cultural Pathways to Novelty Introduction in an Online Community. Available upon request. </font>
+- <font size="3.5"> **Macanovic, A.**, and Morando, D.* “I Heard it on the (Silk)Road”: Structural and Cultural Pathways to Novelty Introduction in an Online Community. *Under review.* Available upon request. </font>
 
 <font size="2"> * denotes equal authorship </font>
 
