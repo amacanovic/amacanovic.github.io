@@ -43,7 +43,7 @@ Below you can find a brief list of my publications and work in progress.
 You can find more detailed information on my research projects [here](https://amacanovic.github.io/research.html)
 and read about my professional
 and teaching activities [here](https://amacanovic.github.io/activities.html).
-You can also find my up-to-date CV (March 2023) [here](https://amacanovic.github.io/Macanovic_CV_7_3_2023.pdf), 
+You can also find my up-to-date CV (March 2023) [here](https://amacanovic.github.io/Macanovic_CV_29_6_2023.pdf), 
 and visit my [Utrecht University home page](https://www.uu.nl/medewerkers/AMacanovic)
 or [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=s5D67kwAAAAJ).
 
@@ -67,6 +67,12 @@ Research*, https://doi.org/10.1016/j.ssresearch.2022.102784 </font>
 
 <font size="4"> **Working papers** </font>
 
+
+
+ - <font size="3.5"> **Macanovic, A.**, Tsvetkova, M., Przepiorka, W., and Buskens, V. Signals of
+Belonging: Emergence of Signalling Norms as Facilitators of Parochial
+Cooperation. *Under review.* </font>
+
  - <font size="3.5"> **Macanovic, A.**, and Przepiorka, W. 2022. A Systematic Evaluation of
 Text Mining Methods for Short Texts: Mapping Individuals’ Internal
 States from Feedback Texts and Tweets. *Under review.* Preprint: https://osf.io/preprints/socarxiv/cerzs </font>
@@ -84,10 +90,4 @@ States from Feedback Texts and Tweets. *Under review.* Preprint: https://osf.io/
 Matter? The Importance of Gossip in the Presence of Formalized
 Reputation Measures in Online Markets. *In preparation.* </font>
 
-
- - <font size="3.5"> **Macanovic, A.**, Tsvetkova, M., Przepiorka, W., and Buskens, V. Signals of
-Belonging: Emergence of Signalling Norms as Facilitators of Parochial
-Cooperation. *In preparation.* </font>
-
-
- - <font size="3.5"> Zhang, S., **Macanovic, A.**, and Holmes, T. Minority group size moderates inequity-reducing strategies in homophilic networks. *In preparation.* </font>
+ - <font size="3.5"> Zhang, S., **Macanovic, A.** Minority group size moderates inequity-reducing strategies in homophilic networks. *In preparation.* </font>

@@ -17,9 +17,9 @@ output: html_document
 <br/>
 <br/>
 
-- 2020, 2021, 2022.  Utrecht University, Advanced Sociological Theory: Modelling Social Interaction, *Leading the seminar groups*  
- <br/>  
- <br/>  
+- 2020 - 2022.  Utrecht University, Advanced Sociological Theory: Modelling Social Interaction, *Leading the seminar groups*  
+<br/>  
+<br/>  
  
 
 ### Professional service and affiliations
@@ -46,8 +46,15 @@ output: html_document
 ### Additional Training
 <br/>
 
-- 2022. Visiting Scholar, *Hosted by dr. Milena Tsvetkova, Department of Methodology
-London School of Economics and Political Science (LSE), London.*
+- 2023. Graduate Workshop in Computational Social Science Modelling and Complexity, *Organized by the Santa Fe Institute.*
+<br/>
+<br/>
+
+- 2023. Visiting Scholar, *Hosted by dr. Mirta Galesic, Santa Fe Institute, Santa Fe.*
+<br/>
+<br/>
+
+- 2022. Visiting Scholar, *Hosted by dr. Milena Tsvetkova, Department of Methodology, London School of Economics and Political Science (LSE), London.*
 <br/>
 <br/>
 
@@ -71,6 +78,15 @@ London School of Economics and Political Science (LSE), London.*
 ### Invited talks
 <br/>
 
+- 2023. Signals of Belonging: Emergence of Signalling Norms as Facilitators of Parochial Cooperation, *Cooperative Relations Seminar, Department of Sociology, Utrecht University*
+<br/>
+<br/>
+
+- 2023. Text Mining in Social Sciences: A Methods Overview, *DYSTENA Workshop: Gaining Insights into Social Media Discourse by Combining Text and Network Analyses, Online*
+<br/>
+<br/>
+
+
 - 2023. Minority Group Size Moderates Inequity-Reducing Strategies in Homophilic Networks, *Centre for Complex Systems Studies (CCSS), Utrecht University*
 <br/>
 <br/>
@@ -86,9 +102,15 @@ Innovations in Online Communities?, *Summer Institute in Computational Social Sc
 ### Conference and Workshop Presentations
 <br/>
 
-- 2023. Text Mining in Social Sciences: A Methods Overview, *DYSTENA Workshop: Gaining Insights into Social Media Discourse by Combining Text and Network Analyses*, *Online*
+- 2023.	Governing Through Gossip: The Role of Informal Communication in Reputation-Based Online Markets, *15th Annual Conference of the International Network of Analytical Sociologists (INAS), Princeton University, Princeton*
 <br/>
 <br/>
+
+
+- 2023.	The Moral Embeddedness of Cryptomarkets: Text Mining Feedback on Economic Exchanges on the Dark Web, *International Meeting on Experimental and Behavioral Social Sciences (IMEBESS), Lisbon*
+<br/>
+<br/>
+
 
 - 2022. Computational Text Analysis for Sociology – Opportunities and Challenges, *ODISSEI Conference for Social Science in the Netherlands 2022, Utrecht*
 <br/>
