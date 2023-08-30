@@ -195,7 +195,7 @@ big data sets and computational methods for text analysis.</font>
 <font size="3.5"> **Text mining for social science – The state and the future of computational text analysis in sociology** </font>
  <br/>  
  
-<font size="2.5">*Article published in Social Science Research available [here](https://authors.elsevier.com/sd/article/S0049-089X(22)00090-4).*</font>
+<font size="2.5">*Article published in [Social Science Research](https://doi.org/10.1016/j.ssresearch.2022.102784) available [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf).*</font>
 
 <font size = "2.5">
 The emergence of big data and computational tools has introduced new possibilities 

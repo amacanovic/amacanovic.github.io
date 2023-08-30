@@ -102,6 +102,16 @@ Innovations in Online Communities?, *Summer Institute in Computational Social Sc
 ### Conference and Workshop Presentations
 <br/>
 
+
+- 2023.	“I Heard it on the (Silk)Road”: Structural and Cultural Pathways to Novelty Introduction in an Online Community, *118th Annual Meeting of the American Sociological Association, Philadelphia*
+<br/>
+<br/>
+
+- 2023.	Governing Through Gossip: The Role of Informal Communication in Reputation-Based Online Markets, *118th Annual Meeting of the American Sociological Association, Philadelphia*
+<br/>
+<br/>
+
+
 - 2023.	Governing Through Gossip: The Role of Informal Communication in Reputation-Based Online Markets, *15th Annual Conference of the International Network of Analytical Sociologists (INAS), Princeton University, Princeton*
 <br/>
 <br/>
@@ -131,6 +141,8 @@ Innovations in Online Communities?, *Summer Institute in Computational Social Sc
 - 2021. Positive Reputation Bias in Cryptomarkets: Validating Quantitative Ratings with Automatic Analyses of Feedback Texts, *IV ISA Forum of Sociology*, *Online*
 <br/>
 <br/>
+
+
 - 2020. Presentation: Motives for leaving feedback after cryptomarket transactions - Evidence from automatic text analysis, *Text Analysis in Economics and the Social Sciences Workshop, University of East Anglia*, *Online*
  <br/>
  <br/>
