@@ -43,7 +43,7 @@ Below you can find a brief list of my publications and work in progress.
 You can find more detailed information on my research projects [here](https://amacanovic.github.io/research.html)
 and read about my professional
 and teaching activities [here](https://amacanovic.github.io/activities.html).
-You can also find my up-to-date CV (June 2023) [here](https://amacanovic.github.io/Macanovic_CV_30_8_2023.pdf), 
+You can also find my up-to-date CV (September 2023) [here](https://amacanovic.github.io/Macanovic_CV_10_9_2023.pdf), 
 and visit my [Utrecht University home page](https://www.uu.nl/medewerkers/AMacanovic)
 or [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=s5D67kwAAAAJ).
 
@@ -60,7 +60,12 @@ Finally, please feel free to contact me at: **a.macanovic [at] uu [dot] nl **
 
  - <font size="3.5"> **Macanovic, A.** 2022. Text Mining for Social Science – The State and the
 Future of Computational Text Analysis in Sociology. *Social Science
-Research*, https://doi.org/10.1016/j.ssresearch.2022.102784. Available for download  [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf)</font>
+Research*, doi: 10.1016/j.ssresearch.2022.102784. Available for download  [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf)</font>
+
+
+ - <font size="3.5"> **Macanovic, A.**, Tsvetkova, M., Przepiorka, W., and Buskens, V. Signals of
+Belonging: Emergence of Signalling Norms as Facilitators of Trust and Parochial
+Cooperation. *Philosophical Transactions of the Royal Society B. (forthcoming)*, doi: 10.1098/rstb.2023.0029 </font>
 
 </br>
 
@@ -68,25 +73,21 @@ Research*, https://doi.org/10.1016/j.ssresearch.2022.102784. Available for downl
 <font size="4"> **Working papers** </font>
 
 
-
- - <font size="3.5"> **Macanovic, A.**, Tsvetkova, M., Przepiorka, W., and Buskens, V. Signals of
-Belonging: Emergence of Signalling Norms as Facilitators of Parochial
-Cooperation. *Under review.* </font>
-
  - <font size="3.5"> **Macanovic, A.**, and Przepiorka, W. 2022. A Systematic Evaluation of
 Text Mining Methods for Short Texts: Mapping Individuals’ Internal
 States from Feedback Texts and Tweets. *Under review.* Preprint: https://osf.io/preprints/socarxiv/cerzs </font>
-
-- <font size="3.5"> **Macanovic, A.**, and Morando, D.* “I Heard it on the (Silk)Road”: Structural and Cultural Pathways to Novelty Introduction in an Online Community. *Under review.* Available upon request. </font>
-
-<font size="2"> * denotes equal authorship </font>
 
 
 </br>
 
 <font size="4"> **Work in progress** </font>
 
+<font size="2"> * denotes equal authorship </font>
+
  - <font size="3.5"> **Macanovic, A.**, Przepiorka, W., and Buskens, V. Governing Through Gossip: The Role of Informal Communication in Reputation-Based Online Markets. *In preparation.* </font>
  
+
+- <font size="3.5"> **Macanovic, A.**, and Morando, D.* “I Heard it on the (Silk)Road”: Structural and Cultural Pathways to Novelty Introduction in an Online Community. *Under review.* Available upon request. </font>
+
 
  - <font size="3.5"> Zhang, S., **Macanovic, A.** Minority group size moderates inequity-reducing strategies in homophilic networks. *In preparation.* </font>

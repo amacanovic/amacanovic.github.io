@@ -43,24 +43,13 @@ output:
     
  <br>
  
-  <font size="3.5"> **The Importance of Gossip in the Presence of Formalized Reputation Measures in Online Markets** </font>
+  <font size="3.5"> **Governing Through Gossip: The Role of Informal Communication in Reputation-Based Online Markets.** </font>
   <br/>  
     
 <font size = "2.5">*With Wojtek Przepiorka and Vincent Buskens, In preparation.*</font>
     
 <font size = "2.5">
-    In complex societies with increasing role specialization
-    social control moves from the interpersonal to impersonal by 
-    being delegated to specially chosen agents and formalized institutions. The case 
-    of  online marketplaces where hundreds of thousands geographically 
-    distant anonymous traders engage in transactions showcases the success of socio-technical
-    solutions in supporting large-scale cooperation. In these markets, specially
-    delegated administrators, buyer protection technologies, and formalized reputation 
-    systems enforce sanctions against untrustworthy traders. Yet, it remains unclear 
-    whether informal information sharing through gossip still plays an important role in enforcing 
-    (informal) social control in such technologically advanced marketplaces. In this work, we explore
-    the interaction of gossip as a means of informal social control and more formalized
-    socio-technical control systems existing in online markets.
+   Sharing of reputational information in large-scale online markets has been mainly delegated to socio-technical solutions such as reputation systems. Reputation systems have been shown to incentivize trustworthy trader behavior by collecting and transmitting information about trader reputations. However, beyond relying on quantitative scores in reputation systems, traders in online markets make use of informal community spaces for interactive, gossip-like production of information about trader reputations. We show how reputation information shared in informal communities helps govern online markets for illegal goods through two mechanisms. We combine manual text coding and deep learning language models to complement data on hundreds of thousands of market transactions with sentiments extracted from 1.6 million community texts written about traders in two illegal online markets. First, we find that reputational information shared in informal communities complements formalized reputation systems, thereby supporting informal social control. Second, we observe that community-generated information helps platform administrators to exhibit formal control by identifying and excluding untrustworthy sellers from the marketplace. We show how, beyond reliance on sophisticated reputation systems that quantify reputations, traders still rely on informal, gossip-like discussions when governing cooperative exchanges in online markets. Our work sheds light on the ecosystem of bottom-up and top-down mechanisms of social control in large-scale anonymous market environments.
     </font>
 </details> 
 
@@ -87,15 +76,15 @@ damage the well-being of the groups that enforce them.
   <p style="margin-left: 100px"> <details> <summary> <font size="3.5"> **Click for an overview of my project on this topic.**</font> </summary>
   </br>
 
-  <font size="3.5"> **Signals of Belonging: Emergence of Signalling Norms as Facilitators of Parochial Cooperation ** </font>
+  <font size="3.5"> **Signals of Belonging: Emergence of Signalling Norms as Facilitators of Trust and Parochial Cooperation ** </font>
   <br/>  
     
-<font size = "2.5">*With Milena Tsvetkova, Wojtek Przepiorka, and Vincent Buskens, Under Review.*</font>
+<font size = "2.5">*With Milena Tsvetkova, Wojtek Przepiorka, and Vincent Buskens.*</font>
+</br>
+<font size = "2.5">Article forthcoming in *Philosophical Transactions of the Royal Society B*, doi: 10.1098/rstb.2023.0029</font>
     
 <font size = "2.5">
-Mechanisms of social control at times reinforce norms that appear individually, or even collectively, harmful or “wasteful” – such as mutilation practices or extensive body tattoos. This project explores the suggestion that such norms emerge as outcomes of signalling games and promote parochial cooperation in contexts where different groups
-have conflicting interests. To understand when signalling norms emerge as solutions to the trust problem arising in such environments, we build an agent-based model based on the trust game with signalling: in this game, signalling can help individuals reveal their group membership to others they are encountering – and thus enforce and sustain
-parochial cooperation.
+Mechanisms of social control reinforce norms that appear harmful or wasteful, such as mutilation practices or extensive body tattoos. We suggest such norms arise to serve as signals that distinguish between ingroup “friends” and outgroup “foes”, facilitating parochial cooperation. Combining insights from research on signalling and parochial cooperation, we incorporate a trust game with signalling in an agent-based model to study the dynamics of signalling norm emergence in groups with conflicting interests. Our results show that costly signalling norms emerge from random acts of signalling in minority groups that benefit most from parochial cooperation. Majority groups are less likely to develop costly signalling norms. Yet, norms that prescribe sending costless group identity signals can easily emerge in groups of all sizes – albeit, at times, at the expense of minority group members. Further, the dynamics of signalling norm emergence differ across signal costs, relative group sizes, and levels of ingroup assortment. Our findings provide theoretical insights into norm evolution in contexts where groups develop identity markers in response to environmental challenges that put their interests at odds with the interests of other groups. Such contexts arise in zones of ethnic conflict or during contestations of existing power relations.
 
 </font>
 </details> 
@@ -195,7 +184,7 @@ big data sets and computational methods for text analysis.</font>
 <font size="3.5"> **Text mining for social science – The state and the future of computational text analysis in sociology** </font>
  <br/>  
  
-<font size="2.5">*Article published in [Social Science Research](https://doi.org/10.1016/j.ssresearch.2022.102784) available [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf).*</font>
+<font size="2.5">Article published in *[Social Science Research](https://doi.org/10.1016/j.ssresearch.2022.102784)* available [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf).*</font>
 
 <font size = "2.5">
 The emergence of big data and computational tools has introduced new possibilities 
@@ -223,19 +212,7 @@ from working with conventional data and methods. </font>
 
 
 <font size = "2.5">
-Sociologists have successfully used text mining to investigate discourse using news
-articles, official documents, and other sources. Yet, the potential of exploring 
-millions of short texts generated spontaneously by individuals in online environments
-has remained untapped within the field. To fill this gap, we show how such texts 
-can inform sociologists about individual internal states such as norms, motives, 
-and stances, which thus far have been mainly elicited using surveys. We assess 
-the performance of 581 variations of three text mining approaches–dictionary methods,
-supervised, and unsupervised machine learning–against the benchmark of texts 
-coded by humans for complex schemes capturing individuals’ internal states. 
-Our analysis includes coding feedback texts from an online market for motives for
-leaving feedback (N = 2,000) and tweet texts for moral values expressed in text 
-(N = 3,832). We describe challenges arising with these different approaches and 
-provide best-practice advice for future applications.</font>
+Short texts generated by individuals in online environments can provide social and behavioural scientists with rich insights into individual internal states. We assess the performance of a broad set of approaches from two families of text mining methods to capture individuals’ motives, norms, emotions, and stances. The benchmark for our assessment are posts from various online platforms that were coded by humans based on theoretically informed coding schemes. We find that dictionary methods that are frequently used in the social and behavioural sciences provide unsatisfactory performance. We further assess the performance of several cutting edge supervised machine learning methods. We find that transformer language models approach our benchmark, but sometimes provide little improvement compared to simpler methods. Our analyses rely exclusively on accessible and flexible open-source transformer models. We discuss the strengths and weaknesses of transformer models and address questions related to tradeoffs between complexity and performance in social and behavioral science applications. More broadly, we describe challenges arising when using different text mining approaches and provide best-practice advice. </font>
 
 
 </details> 
