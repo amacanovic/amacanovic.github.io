@@ -58,14 +58,15 @@ Finally, please feel free to contact me at: **a.macanovic [at] uu [dot] nl **
 </br>
 <font size="4"> **Peer-reviewed publications** </font>
 
+ - <font size="3.5"> **Macanovic, A.**, Tsvetkova, M., Przepiorka, W., and Buskens, V. 2023. Signals of
+Belonging: Emergence of Signalling Norms as Facilitators of Trust and Parochial
+Cooperation. *Philosophical Transactions of the Royal Society B. (forthcoming)*, doi: 10.1098/rstb.2023.0029 </font>
+
+
  - <font size="3.5"> **Macanovic, A.** 2022. Text Mining for Social Science – The State and the
 Future of Computational Text Analysis in Sociology. *Social Science
 Research*, doi: 10.1016/j.ssresearch.2022.102784. Available for download  [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf)</font>
 
-
- - <font size="3.5"> **Macanovic, A.**, Tsvetkova, M., Przepiorka, W., and Buskens, V. Signals of
-Belonging: Emergence of Signalling Norms as Facilitators of Trust and Parochial
-Cooperation. *Philosophical Transactions of the Royal Society B. (forthcoming)*, doi: 10.1098/rstb.2023.0029 </font>
 
 </br>
 
