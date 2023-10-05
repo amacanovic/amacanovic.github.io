@@ -22,11 +22,11 @@ utilizing automatic text analysis. I am working under the supervision of [dr.
 Wojtek Przepiorka](https://www.uu.nl/medewerkers/WPrzepiorka) and 
 [prof.dr. Vincent Buskens](https://www.uu.nl/medewerkers/vbuskens). 
 
-I am the Student Representative of the 
+I was the Student Representative of the 
 [Rationality and Society section](https://sites.google.com/site/rationalityandsocietysection/?pli=1) 
 of the American Sociological Association for 2022-2023. I am also a
 Junior Member of the [Centre for Complex Systems Studies (CCSS)](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss/) 
-of the Utrecht University and the Vice-chair of the [Young Complexity Researchers Utrecht (YCRU)](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss/about-us/young-complexity-researchers-utrecht-ycru).
+of the Utrecht University and the former Vice-chair of the [Young Complexity Researchers Utrecht (YCRU)](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss/about-us/young-complexity-researchers-utrecht-ycru).
 
 My areas of interest include trust and cooperation, social norms, economic sociology, and
 sociology of culture. I am particularly interested in how individuals across 
@@ -77,6 +77,8 @@ Research*, doi: 10.1016/j.ssresearch.2022.102784. Available for download [here](
  - <font size="3.5"> **Macanovic, A.**, and Przepiorka, W. 2022. A Systematic Evaluation of
 Text Mining Methods for Short Texts: Mapping Individuals’ Internal
 States from Feedback Texts and Tweets. *Under review.* Preprint available [here](https://osf.io/preprints/socarxiv/cerzs) </font>
+
+ - <font size="3.5"> Ollion E., Shen, R., **Macanovic, A.**, Chatelain, A. 2023. ChatGPT for Text Annotation? Mind the Hype! *Under review.* Preprint available [here](https://osf.io/preprints/socarxiv/x58kn/)</font>
 
 
 </br>
