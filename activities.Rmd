@@ -78,6 +78,15 @@ output: html_document
 ### Invited talks
 <br/>
 
+
+- 2023. Mapping Individuals’ Internal States from Online Texts: A Systematic Evaluation of Text Mining Methods for Short Texts. *Meeting of the Organisational Behaviour research group, Utrecht University*
+<br/>
+<br/>
+
+- 2023. Mapping Individuals’ Internal States from Online Texts: A Systematic Evaluation of Text Mining Methods for Short Texts. *Colloquium of the Social, Economic, and Organisational Psychology department, Leiden University*
+<br/>
+<br/>
+
 - 2023. Signals of Belonging: Emergence of Signalling Norms as Facilitators of Parochial Cooperation, *Cooperative Relations Seminar, Department of Sociology, Utrecht University*
 <br/>
 <br/>
@@ -91,8 +100,7 @@ output: html_document
 <br/>
 <br/>
 
-- 2023. “I Heard it on the (Silk)Road”: Who Introduces
-Innovations in Online Communities?, *Summer Institute in Computational Social Science (SICSS) London*
+- 2022. “I Heard it on the (Silk)Road”: Who Introduces Innovations in Online Communities?, *Summer Institute in Computational Social Science (SICSS) London*
 <br/>
 <br/>
 

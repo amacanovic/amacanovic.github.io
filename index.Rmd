@@ -13,42 +13,42 @@ canonical_url: https://amacanovic.github.io/
 
 <div style="text-align: justify">
 <font size="3.5"> 
-I am a PhD Candidate in Sociology at the Department of Sociology, Utrecht 
-University (UU) and the Interuniversity Center for Social Science Theory and 
-Methodology [(ICS)](http://ics-graduateschool.nl/). My research is concerned with cooperation of agents in extra-legal 
-environments and the potential negative consequences of such cooperation. 
-Currently, I am exploring the functioning of reputation systems in cryptomarkets 
-utilizing automatic text analysis. I am working under the supervision of [dr. 
-Wojtek Przepiorka](https://www.uu.nl/medewerkers/WPrzepiorka) and 
+I am a postdoctoral researcher at the Department of Sociology, Radboud University (RU)
+and the Interuniversity Center for Social Science Theory and 
+Methodology [(ICS)](http://ics-graduateschool.nl/). I am currently working on a project
+exploring gender representation of Dutch professors in newspapers and social media
+with [dr. Bas Hofstra](https://www.bashofstra.com/).
+
+Before this, I was a PhD Candidate at the Department of Sociology, Utrecht 
+University (UU) under the supervision of [dr. Wojtek Przepiorka](https://equail.org/) and 
 [prof.dr. Vincent Buskens](https://www.uu.nl/medewerkers/vbuskens). 
 
+My areas of interest include economic sociology, innovation, inequalities,
+and trust and cooperation. I am  interested in how structural inequalities arise 
+in societies and how they can be addressed. I am also intrigued by the processes
+of individual and group-level innovation and the evolution of norms and cultural
+practices. Finally, I study how individuals from diverse social 
+backgrounds come to trust each other and work together effectively, developing
+and changing shared social norms and institutions along the way.
+
+I explore these topics with the help of computational methods, including automatic
+text analysis, machine learning, network analysis, and agent-based modelling. Broadly, I am interested in the study of societies as complex systems.
+
 I was the Student Representative of the 
-[Rationality and Society section](https://sites.google.com/site/rationalityandsocietysection/?pli=1) 
+[Decision-Making, Social Networks, and Society](https://www.asanet.org/asa_sections/rationality-and-society/) 
 of the American Sociological Association for 2022-2023. I am also a
 Junior Member of the [Centre for Complex Systems Studies (CCSS)](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss/) 
 of the Utrecht University and the former Vice-chair of the [Young Complexity Researchers Utrecht (YCRU)](https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss/about-us/young-complexity-researchers-utrecht-ycru).
-
-My areas of interest include trust and cooperation, social norms, economic sociology, and
-sociology of culture. I am particularly interested in how individuals across 
-different social groups and contexts come to trust each other and successfully cooperate, 
-developing and changing shared social norms and institutions along the way. I am also intrigued by 
-how numerical properties of groups can lead to structural inequalities in societies, 
-and how these inequalities can be remedied. Finally, I have a substantive interest 
-in how individuals and groups innovate and how communities evolve. 
-To study these topics, I use computational methods, including machine learning, 
-automatic text analysis, agent-based modeling, statistical models, and network analysis. 
-Broadly, I am interested in the study of societies as complex systems.
 
 Below you can find a brief list of my publications and work in progress. 
 You can find more detailed information on my research projects [here](https://amacanovic.github.io/research.html)
 and read about my professional
 and teaching activities [here](https://amacanovic.github.io/activities.html).
-You can also find my up-to-date CV (September 2023) [here](https://amacanovic.github.io/Macanovic_CV_10_9_2023.pdf), 
-and visit my [Utrecht University home page](https://www.uu.nl/medewerkers/AMacanovic)
-or [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=s5D67kwAAAAJ).
+You can also find my up-to-date CV (December 2023) [here](https://amacanovic.github.io/Macanovic_CV_9_12_2023.pdf), 
+and visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=s5D67kwAAAAJ).
 
 
-Finally, please feel free to contact me at: **a.macanovic [at] uu [dot] nl **
+Finally, please feel free to contact me at: **ana.macanovic [at] ru [dot] nl **
 
 </font>
 </div>
@@ -57,6 +57,9 @@ Finally, please feel free to contact me at: **a.macanovic [at] uu [dot] nl **
 </br>
 </br>
 <font size="4"> **Peer-reviewed publications** </font>
+
+ - <font size="3.5"> **Macanovic, A.**, Przepiorka, W. 2023. The Moral Embeddedness of Cryptomarkets: Text Mining Feedback on Economic Exchanges on the Dark Web. *Socio-Economic Review. (forthcoming)* </font>
+
 
  - <font size="3.5"> **Macanovic, A.**, Tsvetkova, M., Przepiorka, W., and Buskens, V. 2023. Signals of
 Belonging: Emergence of Signalling Norms as Facilitators of Trust and Parochial
@@ -72,7 +75,6 @@ Research*, doi: 10.1016/j.ssresearch.2022.102784. Available for download [here](
 
 
 <font size="4"> **Working papers** </font>
-
 
  - <font size="3.5"> **Macanovic, A.**, and Przepiorka, W. 2022. A Systematic Evaluation of
 Text Mining Methods for Short Texts: Mapping Individuals’ Internal

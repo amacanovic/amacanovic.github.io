@@ -25,10 +25,10 @@ output:
   <p style="margin-left: 100px"> <details> <summary> <font size="3.5"> **Click for an overview of my projects on this topic.**</font> </summary>
   </br>
   
-  <font size="3.5"> **The Moral Embeddedness of Illegal Markets** </font>
+  <font size="3.5"> **The Moral Embeddedness of Cryptomarkets: Text Mining Feedback on Economic Exchanges on the Dark Web.** </font>
   <br/>  
     
-<font size = "2.5">*With Wojtek Przepiorka, Under Review.*</font>
+<font size = "2.5">*With Wojtek Przepiorka, Forthcoming in Socio-Economic Review.*</font>
      
     
 <font size = "2.5">
