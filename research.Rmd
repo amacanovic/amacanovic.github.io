@@ -28,7 +28,7 @@ output:
   <font size="3.5"> **The Moral Embeddedness of Cryptomarkets: Text Mining Feedback on Economic Exchanges on the Dark Web.** </font>
   <br/>  
     
-<font size = "2.5">*With Wojtek Przepiorka, Forthcoming in Socio-Economic Review.*</font>
+<font size = "2.5">*With Wojtek Przepiorka, Socio-Economic Review, mwad069. doi: [10.1093/ser/mwad069](https://doi.org/10.1093/ser/mwad069)*</font>
      
     
 <font size = "2.5">
@@ -46,7 +46,7 @@ output:
   <font size="3.5"> **Governing Through Gossip: The Role of Informal Communication in Reputation-Based Online Markets.** </font>
   <br/>  
     
-<font size = "2.5">*With Wojtek Przepiorka and Vincent Buskens, In preparation.*</font>
+<font size = "2.5">*With Wojtek Przepiorka and Vincent Buskens, Under Review.*</font>
     
 <font size = "2.5">
    Sharing of reputational information in large-scale online markets has been mainly delegated to socio-technical solutions such as reputation systems. Reputation systems have been shown to incentivize trustworthy trader behavior by collecting and transmitting information about trader reputations. However, beyond relying on quantitative scores in reputation systems, traders in online markets make use of informal community spaces for interactive, gossip-like production of information about trader reputations. We show how reputation information shared in informal communities helps govern online markets for illegal goods through two mechanisms. We combine manual text coding and deep learning language models to complement data on hundreds of thousands of market transactions with sentiments extracted from 1.6 million community texts written about traders in two illegal online markets. First, we find that reputational information shared in informal communities complements formalized reputation systems, thereby supporting informal social control. Second, we observe that community-generated information helps platform administrators to exhibit formal control by identifying and excluding untrustworthy sellers from the marketplace. We show how, beyond reliance on sophisticated reputation systems that quantify reputations, traders still rely on informal, gossip-like discussions when governing cooperative exchanges in online markets. Our work sheds light on the ecosystem of bottom-up and top-down mechanisms of social control in large-scale anonymous market environments.
@@ -81,7 +81,7 @@ damage the well-being of the groups that enforce them.
     
 <font size = "2.5">*With Milena Tsvetkova, Wojtek Przepiorka, and Vincent Buskens.*</font>
 </br>
-<font size = "2.5">Article forthcoming in *Philosophical Transactions of the Royal Society B*, doi: 10.1098/rstb.2023.0029. Preprint available [here](https://osf.io/preprints/socarxiv/acr82/)</font>
+<font size = "2.5">*Philosophical Transactions of the Royal Society B 379*, 20230029. Available [here](https://amacanovic.github.io/macanovic-et-al-2024-signals-of-belonging-emergence-of-signalling-norms-as-facilitators-of-trust-and-parochial.pdf).</font>
     
 <font size = "2.5">
 Mechanisms of social control reinforce norms that appear harmful or wasteful, such as mutilation practices or extensive body tattoos. We suggest such norms arise to serve as signals that distinguish between ingroup “friends” and outgroup “foes”, facilitating parochial cooperation. Combining insights from research on signalling and parochial cooperation, we incorporate a trust game with signalling in an agent-based model to study the dynamics of signalling norm emergence in groups with conflicting interests. Our results show that costly signalling norms emerge from random acts of signalling in minority groups that benefit most from parochial cooperation. Majority groups are less likely to develop costly signalling norms. Yet, norms that prescribe sending costless group identity signals can easily emerge in groups of all sizes – albeit, at times, at the expense of minority group members. Further, the dynamics of signalling norm emergence differ across signal costs, relative group sizes, and levels of ingroup assortment. Our findings provide theoretical insights into norm evolution in contexts where groups develop identity markers in response to environmental challenges that put their interests at odds with the interests of other groups. Such contexts arise in zones of ethnic conflict or during contestations of existing power relations.
@@ -184,7 +184,7 @@ big data sets and computational methods for text analysis.</font>
 <font size="3.5"> **Text mining for social science – The state and the future of computational text analysis in sociology** </font>
  <br/>  
  
-<font size="2.5">Article published in *[Social Science Research](https://doi.org/10.1016/j.ssresearch.2022.102784) available [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf).*</font>
+<font size="2.5">Article published in *[Social Science Research](https://doi.org/10.1016/j.ssresearch.2022.102784)*. Available [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf).</font>
 
 <font size = "2.5">
 The emergence of big data and computational tools has introduced new possibilities 
