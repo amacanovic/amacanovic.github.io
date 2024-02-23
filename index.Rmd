@@ -44,7 +44,7 @@ Below you can find a brief list of my publications and work in progress.
 You can find more detailed information on my research projects [here](https://amacanovic.github.io/research.html)
 and read about my professional
 and teaching activities [here](https://amacanovic.github.io/activities.html).
-You can also find my up-to-date CV (December 2023) [here](https://amacanovic.github.io/Macanovic_CV_22_1_2024.pdf), 
+You can also find my up-to-date CV (February 2024) [here](https://amacanovic.github.io/Macanovic_CV_23_2_2024.pdf), 
 and visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=s5D67kwAAAAJ).
 
 
@@ -58,39 +58,38 @@ Finally, please feel free to contact me at: **ana.macanovic [at] ru [dot] nl **
 </br>
 <font size="4"> **Peer-reviewed publications** </font>
 
- - <font size="3.5"> **Macanovic, A.**, Tsvetkova, M., Przepiorka, W., and Buskens, V. 2024. Signals of
-Belonging: Emergence of Signalling Norms as Facilitators of Trust and Parochial
-Cooperation. *Philosophical Transactions of the Royal Society B, 379*, 20230029. doi: [10.1098/rstb.2023.0029](https://doi.org/10.1098/rstb.2023.0029). Available for download [here](https://amacanovic.github.io/macanovic-et-al-2024-signals-of-belonging-emergence-of-signalling-norms-as-facilitators-of-trust-and-parochial.pdf) </font>
+ - <font size="3.5"> **Macanovic, A.**, Przepiorka, W. 2024. A Systematic Evaluation of Text Mining Methods for Short Texts: Mapping Individuals’ Internal States from Online Posts. *Behavior Research Methods (forthcoming)*. Preprint available [here](https://osf.io/preprints/socarxiv/cerzs/) </font>
 
- - <font size="3.5"> **Macanovic, A.**, Przepiorka, W. 2023. The Moral Embeddedness of Cryptomarkets: Text Mining Feedback on Economic Exchanges on the Dark Web. *Socio-Economic Review, mwad069*. doi: [10.1093/ser/mwad069](https://doi.org/10.1093/ser/mwad069) </font>
+ - <font size="3.5"> **Macanovic, A.**, Tsvetkova, M., Przepiorka, W., and Buskens, V. 2023. Signals of
+Belonging: Emergence of Signalling Norms as Facilitators of Trust and Parochial
+Cooperation. *Philosophical Transactions of the Royal Society B, 379*, doi: 10.1098/rstb.2023.0029. Preprint available [here](https://osf.io/preprints/socarxiv/acr82/) </font>
+
+
+ - <font size="3.5"> **Macanovic, A.**, Przepiorka, W. 2023. The Moral Embeddedness of Cryptomarkets: Text Mining Feedback on Economic Exchanges on the Dark Web. *Socio-Economic Review, mwad069*, doi: 10.1093/ser/mwad069. Available [here](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwad069/7499725)  </font>
+
 
  - <font size="3.5"> **Macanovic, A.** 2022. Text Mining for Social Science – The State and the
-Future of Computational Text Analysis in Sociology. *Social Science Research, 108*, 102784. doi: [10.1016/j.ssresearch.2022.102784](https://doi.org/10.1016/j.ssresearch.2022.102784). Available for download [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf)</font>
+Future of Computational Text Analysis in Sociology. *Social Science
+Research*, doi: 10.1016/j.ssresearch.2022.102784. Available for download [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf)</font>
 
 </br>
 
 
-<font size="4"> **Other publications** </font>
+<font size="4"> **Other publications** </font> 
 
- - <font size="3.5"> Ollion E., Shen, R., **Macanovic, A.**, Chatelain, A. 2024. The dangers of using proprietary LLMs for research. *Nature Machine Intelligence*. doi: [10.1038/s42256-023-00783-6](https://rdcu.be/dwCE2)</font>
-
-</br> 
-
-
-<font size="4"> **Working papers** </font>
-
- - <font size="3.5"> **Macanovic, A.**, and Przepiorka, W. 2022. A Systematic Evaluation of
-Text Mining Methods for Short Texts: Mapping Individuals’ Internal
-States from Feedback Texts and Tweets. *Under review.* Preprint available [here](https://osf.io/preprints/socarxiv/cerzs) </font>
-
- - <font size="3.5"> Ollion E., Shen, R., **Macanovic, A.**, Chatelain, A. 2023. ChatGPT for Text Annotation? Mind the Hype! *Under review.* Preprint available [here](https://osf.io/preprints/socarxiv/x58kn/)</font>
-
+ - <font size="3.5"> Ollion E., Shen, R., **Macanovic, A.**, Chatelain, A. 2024. The dangers of using proprietary LLMs for research. *Nature Machine Intelligence*. doi: 10.1038/s42256-023-00783-6. Available for reading [here](https://rdcu.be/dwCE2) </font>
 
 </br>
+
 
 <font size="4"> **Work in progress** </font>
 
-<font size="2"> * denotes equal authorship </font>
+<font size="2"> * denotes equal authorship </font> 
+
+ - <font size="3.5"> **Macanovic, A.**, Hofstra B. Gendered Accumulation of Fame: Effects of Cumulative Advantage and Network Spillovers on Representation of Dutch Professors in Media. *In preparation.* </font>
+
+ - <font size="3.5"> Ollion E., Shen, R., **Macanovic, A.**, Chatelain, A. 2023. ChatGPT for Text Annotation? Mind the Hype!. Preprint available [here](https://osf.io/preprints/socarxiv/x58kn/)</font>
+
 
  - <font size="3.5"> **Macanovic, A.**, Przepiorka, W., and Buskens, V. Governing Through Gossip: The Role of Informal Communication in Reputation-Based Online Markets. *In preparation.* </font>
  

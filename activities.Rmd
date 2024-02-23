@@ -78,6 +78,9 @@ output: html_document
 ### Invited talks
 <br/>
 
+- 2024. Computational Text Analysis for Social Sciences: Opportunities and Challenges. *Coffee and Knowledge sessions, Netherlands Institute for Social Research*
+<br/>
+<br/>
 
 - 2023. Mapping Individuals’ Internal States from Online Texts: A Systematic Evaluation of Text Mining Methods for Short Texts. *Meeting of the Organisational Behaviour research group, Utrecht University*
 <br/>

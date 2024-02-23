@@ -7,6 +7,186 @@ output:
 
 <br/> 
 
+
+
+<font size="5.5"> Networks, culture, innovation and inequality </font>
+  
+<font size="3.5"> I am intrigued by how the structure of social networks affects 
+outcomes in different social groups and communities. On the one hand, I am
+interested in how social network structure and cultural integration affect
+the capacity of (online) communities to develop shared culture and
+innovate. On the other hand, I am also intrigued by how numerical properties 
+of different social groups engaging ininteractions with each other can lead to 
+structural inequalities. 
+
+</br>
+  
+<p style="margin-left: 100px"> <details> <summary> <font size="3.5"> **Click for an overview of my projects on this topic.**</font> </summary>
+</br>
+  
+<font size="3.5"> **Gendered Accumulation of Fame: Effects of Cumulative Advantage and Network Spillovers on Representation of Dutch Professors in Media. In preparation ** </font>
+<br/>  
+    
+<font size="2.5">*With Bas Hofstra, In preparation.*</font>
+    
+<font size = "2.5">
+Engagement of scientists with the general public is becoming increasingly important. 
+Experts in the media spotlight yield considerable power in setting the public agenda. 
+Yet, time in the spotlight is unequally distributed between women and men in science,
+most likely because of unequal access to social network resources that facilitate 
+access to the media domain. We first set out to understand whether gender inequalities 
+in media representation are exacerbated by cumulative advantage where reputable 
+scientists accrue further recognition, while the unrecognized ones increasingly 
+lag behind. Second, we suggest the presence of so-called social network 
+“second-order” cumulative advantage in media representation; the media popularity 
+of scientists’ social ties (i.e., coauthors, departmental colleagues, and so forth)
+flows over to increasingly benefit the focal scholar. Men and women likely differ
+in their social network affiliations with media-savvy colleagues. Further, the 
+advantages of having similarly popular ties might differ between men and women, 
+further exacerbating the gender/media representation gap.
+</font>
+
+<br>
+
+
+<font size="3.5"> **“I Heard it on the (Silk)Road”:
+Structural and Cultural Pathways to Novelty Introduction in an Online Community ** </font>
+  <br/>  
+    
+<font size="2.5">*With Damiano Morando, In preparation.*</font>
+    
+<font size = "2.5">
+Online communities play a crucial role in generating and spreading innovation
+which affects both the online and offline world. Yet, we still know relatively little
+about the members who introduce novelty into the community - innovators. We explore 
+the structural and cultural embeddedness of members who introduce linguistic and 
+knowledge-based innovations into a large online forum. First, we find that the 
+effect of being structurally embedded in the community is moderated by the content
+one is exposed to. That is, less embedded individuals (i.e., brokers) benefit from
+access to diverse content in the online community;while embedded individuals 
+benefit from seeing similar content.Second, we show that being culturally embedded
+in the community has an inverse U shape effect over the likelihood 
+introducing an innovation. We find evidence for the tension between the 
+norm-following required for meaningful innovations and the norm-breaking 
+that pushes one to “think outside of the box”. 
+</font>
+
+<br>
+
+<font size="3.5"> **Minority group size moderates inequity-reducing strategies in homophilic networks** </font>
+<br/>  
+    
+<font size = "2.5">*With Sam Zhang, In preparation.*</font>
+    
+<font size = "2.5">
+Minorities are often disadvantaged in social networks, and their disadvantage
+can arise in the presence of two ubiquitous features of social networks: homophily
+and preferential attachment. This disadvantage often translates to less visibility
+and lower access to valuable social capital of minority group members. In this 
+paper, we use the directed network model with preferential attachment and homophily 
+(DPAH) to evaluate how minority groups fare in the presence of additional groups
+that could bridge the majority/minority gap, such as majority group members who 
+support the minority group (allies), and minority group members that are incorporated 
+into the majority group. Our results show that the marginal benefit of majority group
+members becoming allies increases with minority group size, and larger minority 
+groups reach equity with a smaller proportion of incorporated members. 
+These results suggest that interventions on structural inequities on networks 
+can depend sensitively on the relative sizes of the groups involved. 
+Our models also reveal the increasing difficulty of a minority group achieving 
+parity as the group shrinks.
+</font>
+
+    
+</details> 
+
+<br/>
+<br/>
+
+
+-------------
+
+<font size="5.5"> Text mining for sociological research </font>
+  
+<font size="3.5"> I am interested in better understanding how meaning
+can be extracted from large amounts of textual data and used in sociological
+theory building and testing. I explore how automatic text analysis can be used by
+social scientist and explore the benefits and limitations of working with
+big data sets and computational methods for text analysis.</font>
+</br>
+</br>
+
+<details> <summary> <font size="3.5"> **Click for an overview of my projects on this topic.**</font> </summary>
+</br>
+
+<font size="4"> **The dangers of using proprietary LLMs for research** </font>
+ <br/>  
+ 
+<font size = "2.5">*With Etienne Ollion, Rubing Shen and Arnault Chatelain. Article published in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-023-00783-6). Available [here](https://rdcu.be/dwCE2)*</font>
+
+
+<font size = "2.5">
+Short texts generated by individuals in online environments can provide social and behavioral scientists with rich insights into these individuals’ internal states. Trained manual coders can reliably interpret expressions of such internal states in text. However, manual coding imposes restrictions on the number of texts that can be analyzed, limiting our ability to extract insights from large-scale textual data. We evaluate the performance of several automatic text analysis methods in approximating trained human coders’ evaluations across four coding tasks encompassing expressions of motives, norms, emotions, and stances. Our findings suggest that commonly used dictionaries, although performing well in identifying infrequent categories, generate false positives too frequently compared to other methods. We show that large language models trained on manually coded data yield the highest performance across all case studies. However, there are also instances where simpler methods show almost equal performance. Additionally, we evaluate the effectiveness of cutting-edge generative language models like GPT-4 in coding texts for internal states with the help of short instructions (so-called zero-shot classification). While promising, these models fall short of the performance of models trained on manually analyzed data. We discuss the strengths and weaknesses of various models and explore the trade-offs between model complexity and performance in different applications. Our work informs social and behavioral scientists of the challenges associated with text mining of large textual datasets while providing best-practice recommendations.
+</font>
+
+
+<br>
+
+<font size="4"> **Text mining individual states in short texts** </font>
+ <br/>  
+ 
+<font size = "2.5">*With Wojtek Przepiorka, Forthcoming in Behavior Research Methods. Preprint available [here](https://osf.io/preprints/socarxiv/cerzs/).*</font>
+
+
+<font size = "2.5">
+Short texts generated by individuals in online environments can provide social and behavioral scientists with rich insights into these individuals’ internal states. Trained manual coders can reliably interpret expressions of such internal states in text. However, manual coding imposes restrictions on the number of texts that can be analyzed, limiting our ability to extract insights from large-scale textual data. We evaluate the performance of several automatic text analysis methods in approximating trained human coders’ evaluations across four coding tasks encompassing expressions of motives, norms, emotions, and stances. Our findings suggest that commonly used dictionaries, although performing well in identifying infrequent categories, generate false positives too frequently compared to other methods. We show that large language models trained on manually coded data yield the highest performance across all case studies. However, there are also instances where simpler methods show almost equal performance. Additionally, we evaluate the effectiveness of cutting-edge generative language models like GPT-4 in coding texts for internal states with the help of short instructions (so-called zero-shot classification). While promising, these models fall short of the performance of models trained on manually analyzed data. We discuss the strengths and weaknesses of various models and explore the trade-offs between model complexity and performance in different applications. Our work informs social and behavioral scientists of the challenges associated with text mining of large textual datasets while providing best-practice recommendations.
+</font>
+
+
+<br>
+
+
+<font size="3.5"> **Text mining for social science – The state and the future of computational text analysis in sociology** </font>
+ <br/>  
+ 
+<font size="2.5">Article published in *[Social Science Research](https://doi.org/10.1016/j.ssresearch.2022.102784)*. Available [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf).</font>
+
+<font size = "2.5">
+The emergence of big data and computational tools has introduced new possibilities 
+for using large-scale textual sources in sociological research. Recent work in 
+sociology of culture, science, and economic sociology has shown how computational 
+text analysis can be used in theory building and testing. This review starts with 
+an introduction of the history of computer-assisted text analysis in sociology and 
+then proceeds to discuss five families of computational methods used in contemporary
+research. Using exemplary studies, it shows how dictionary methods, semantic and
+network analysis tools, language models, unsupervised, and supervised machine 
+learning can assist sociologists with different analytical tasks. After presenting
+recent methodological developments, this review summarizes several important 
+implications of using large datasets and computational methods to infer complex
+meaning in texts. Finally, it calls researchers from different methodological 
+traditions to adopt text mining tools while remaining mindful of lessons learned 
+from working with conventional data and methods. </font>
+ 
+<br>
+
+
+<font size="4"> **ChatGPT for Text Annotation? Mind the Hype!** </font>
+ <br/>  
+ 
+<font size = "2.5">*With Etienne Ollion, Rubing Shen and Arnault Chatelain, In preparation. Preprint available [here](https://osf.io/preprints/socarxiv/x58kn/).*</font>
+
+
+<font size = "2.5">
+In the past months, researchers have enthusiastically discussed the relevance of zero- or few-shot classifiers like ChatGPT for text annotation. Should these models prove to be performant, they would open up new continents for research,and beyond. To assess the merits and limits of this approach, we conducted a systematic literature review. Reading all the articles doing zero or few-shot text annotation in the human and social sciences, we found that these few-shot learners offer enticing, yet mixed results on text annotation tasks. The performance scores can vary widely, with some being average and some being very low. Besides, zero or few-shot models are often outperformed by models fine-tuned with human annotations. Our findings thus suggest that, to date, the evidence about their effectiveness remains partial, but also that their use raises several important questions about the reproducibility of results, about privacy and copyright issues, and about the primacy of the English language. While we definitely believe that there are numerous ways to harness this powerful technology productively, we also need to harness it without falling for the hype.</font>
+
+
+</details> 
+<br/>
+<br/>
+
+
+-------------------------
+
+
 <font size="5.5"> Cooperation and trust in extra-legal contexts </font>
   
 <font size="3.5"> I explore how agents sustain mutually beneficial cooperative
@@ -94,142 +274,3 @@ Mechanisms of social control reinforce norms that appear harmful or wasteful, su
 
 
 ---------------------
-
-
-<font size="5.5"> Networks, culture, innovation and inequality </font>
-  
-<font size="3.5"> I am intrigued by how the structure of social networks affects 
-outcomes in different social groups and communities. On the one hand, I am
-interested in how social network structure and cultural integration affect
-the capacity of (online) communities to develop shared culture and
-innovate. On the other hand, I am also intrigued by how numerical properties 
-of different social groups engaging ininteractions with each other can lead to 
-structural inequalities. 
-
-  </br>
-  
-  <p style="margin-left: 100px"> <details> <summary> <font size="3.5"> **Click for an overview of my projects on this topic.**</font> </summary>
-  </br>
-
-<font size="3.5"> **“I Heard it on the (Silk)Road”:
-Structural and Cultural Pathways to Novelty Introduction in an Online Community ** </font>
-  <br/>  
-    
-  <font size="2.5">*With Damiano Morando, In preparation.*</font>
-    
-<font size = "2.5">
-Online communities play a crucial role in generating and spreading innovation
-which affects both the online and offline world. Yet, we still know relatively little
-about the members who introduce novelty into the community - innovators. We explore 
-the structural and cultural embeddedness of members who introduce linguistic and 
-knowledge-based innovations into a large online forum. First, we find that the 
-effect of being structurally embedded in the community is moderated by the content
-one is exposed to. That is, less embedded individuals (i.e., brokers) benefit from
-access to diverse content in the online community;while embedded individuals 
-benefit from seeing similar content.Second, we show that being culturally embedded
-in the community has an inverse U shape effect over the likelihood 
-introducing an innovation. We find evidence for the tension between the 
-norm-following required for meaningful innovations and the norm-breaking 
-that pushes one to “think outside of the box”. 
-</font>
-
-<br>
-
-<font size="3.5"> **Minority group size moderates inequity-reducing strategies in homophilic networks** </font>
-  <br/>  
-    
-<font size = "2.5">*With Sam Zhang, In preparation.*</font>
-    
-<font size = "2.5">
-Minorities are often disadvantaged in social networks, and their disadvantage
-can arise in the presence of two ubiquitous features of social networks: homophily
-and preferential attachment. This disadvantage often translates to less visibility
-and lower access to valuable social capital of minority group members. In this 
-paper, we use the directed network model with preferential attachment and homophily 
-(DPAH) to evaluate how minority groups fare in the presence of additional groups
-that could bridge the majority/minority gap, such as majority group members who 
-support the minority group (allies), and minority group members that are incorporated 
-into the majority group. Our results show that the marginal benefit of majority group
-members becoming allies increases with minority group size, and larger minority 
-groups reach equity with a smaller proportion of incorporated members. 
-These results suggest that interventions on structural inequities on networks 
-can depend sensitively on the relative sizes of the groups involved. 
-Our models also reveal the increasing difficulty of a minority group achieving 
-parity as the group shrinks.
-</font>
-
-    
-</details> 
-
-<br/>
-<br/>
-
-
--------------
-
-<font size="5.5"> Text mining for sociological research </font>
-  
-<font size="3.5"> I am interested in better understanding how meaning
-can be extracted from large amounts of textual data and used in sociological
-theory building and testing. I explore how automatic text analysis can be used by
-social scientist and explore the benefits and limitations of working with
-big data sets and computational methods for text analysis.</font>
-</br>
-</br>
-
-<details> <summary> <font size="3.5"> **Click for an overview of my projects on this topic.**</font> </summary>
-</br>
-
-
-<font size="3.5"> **Text mining for social science – The state and the future of computational text analysis in sociology** </font>
- <br/>  
- 
-<font size="2.5">Article published in *[Social Science Research](https://doi.org/10.1016/j.ssresearch.2022.102784)*. Available [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf).</font>
-
-<font size = "2.5">
-The emergence of big data and computational tools has introduced new possibilities 
-for using large-scale textual sources in sociological research. Recent work in 
-sociology of culture, science, and economic sociology has shown how computational 
-text analysis can be used in theory building and testing. This review starts with 
-an introduction of the history of computer-assisted text analysis in sociology and 
-then proceeds to discuss five families of computational methods used in contemporary
-research. Using exemplary studies, it shows how dictionary methods, semantic and
-network analysis tools, language models, unsupervised, and supervised machine 
-learning can assist sociologists with different analytical tasks. After presenting
-recent methodological developments, this review summarizes several important 
-implications of using large datasets and computational methods to infer complex
-meaning in texts. Finally, it calls researchers from different methodological 
-traditions to adopt text mining tools while remaining mindful of lessons learned 
-from working with conventional data and methods. </font>
- 
-
-<br>
-
-<font size="4"> **Text mining individual states in short texts** </font>
- <br/>  
- 
-<font size = "2.5">*With Wojtek Przepiorka, Under Review. Preprint available [here](https://osf.io/preprints/socarxiv/cerzs/).*</font>
-
-
-<font size = "2.5">
-Short texts generated by individuals in online environments can provide social and behavioural scientists with rich insights into individual internal states. We assess the performance of a broad set of approaches from two families of text mining methods to capture individuals’ motives, norms, emotions, and stances. The benchmark for our assessment are posts from various online platforms that were coded by humans based on theoretically informed coding schemes. We find that dictionary methods that are frequently used in the social and behavioural sciences provide unsatisfactory performance. We further assess the performance of several cutting edge supervised machine learning methods. We find that transformer language models approach our benchmark, but sometimes provide little improvement compared to simpler methods. Our analyses rely exclusively on accessible and flexible open-source transformer models. We discuss the strengths and weaknesses of transformer models and address questions related to tradeoffs between complexity and performance in social and behavioral science applications. More broadly, we describe challenges arising when using different text mining approaches and provide best-practice advice. </font>
-
-
-<br>
-
-<font size="4"> **ChatGPT for Text Annotation? Mind the Hype!** </font>
- <br/>  
- 
-<font size = "2.5">*With Etienne Ollion, Rubing Shen and Arnault Chatelain, Under Review. Preprint available [here](https://osf.io/preprints/socarxiv/x58kn/).*</font>
-
-
-<font size = "2.5">
-In the past months, researchers have enthusiastically discussed the relevance of zero- or few-shot classifiers like ChatGPT for text annotation. Should these models prove to be performant, they would open up new continents for research,and beyond. To assess the merits and limits of this approach, we conducted a systematic literature review. Reading all the articles doing zero or few-shot text annotation in the human and social sciences, we found that these few-shot learners offer enticing, yet mixed results on text annotation tasks. The performance scores can vary widely, with some being average and some being very low. Besides, zero or few-shot models are often outperformed by models fine-tuned with human annotations. Our findings thus suggest that, to date, the evidence about their effectiveness remains partial, but also that their use raises several important questions about the reproducibility of results, about privacy and copyright issues, and about the primacy of the English language. While we definitely believe that there are numerous ways to harness this powerful technology productively, we also need to harness it without falling for the hype.</font>
-
-
-</details> 
-<br/>
-<br/>
-
-
--------------------------
