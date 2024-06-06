@@ -17,7 +17,9 @@ I am a postdoctoral researcher at the Department of Sociology, Radboud Universit
 and the Interuniversity Center for Social Science Theory and 
 Methodology [(ICS)](http://ics-graduateschool.nl/). I am currently working on a project
 exploring gender representation of Dutch professors in newspapers and social media
-with [dr. Bas Hofstra](https://www.bashofstra.com/).
+with [dr. Bas Hofstra](https://www.bashofstra.com/). From September 2024 onwards, I will start 
+as a Max Weber Postdoctoral fellow at the Department of Political and Social Sciences of the 
+European University Institute [(EUI)](https://www.eui.eu/en/academic-units/political-and-social-sciences).
 
 Before this, I was a PhD Candidate at the Department of Sociology, Utrecht 
 University (UU) under the supervision of [dr. Wojtek Przepiorka](https://equail.org/) and 
@@ -32,7 +34,8 @@ backgrounds come to trust each other and work together effectively, developing
 and changing shared social norms and institutions along the way.
 
 I explore these topics with the help of computational methods, including automatic
-text analysis, machine learning, network analysis, and agent-based modelling. Broadly, I am interested in the study of societies as complex systems.
+text analysis, machine learning, network analysis, and agent-based modelling. Broadly, 
+I am interested in the study of societies as complex systems.
 
 I was the Student Representative of the 
 [Decision-Making, Social Networks, and Society](https://www.asanet.org/asa_sections/rationality-and-society/) section of the American Sociological Association for 2022-2023. I was also a
@@ -43,7 +46,7 @@ Below you can find a brief list of my publications and work in progress.
 You can find more detailed information on my research projects [here](https://amacanovic.github.io/research.html)
 and read about my professional
 and teaching activities [here](https://amacanovic.github.io/activities.html).
-You can also find my up-to-date CV (February 2024) [here](https://amacanovic.github.io/Macanovic_CV_23_2_2024.pdf), 
+You can also find my up-to-date CV (June 2024) [here](https://amacanovic.github.io/Macanovic_CV_6_6_2024.pdf), 
 and visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=s5D67kwAAAAJ).
 
 
