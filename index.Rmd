@@ -13,15 +13,15 @@ canonical_url: https://amacanovic.github.io/
 
 <div style="text-align: justify">
 <font size="3.5"> 
-I am a postdoctoral researcher at the Department of Sociology, Radboud University (RU)
-and the Interuniversity Center for Social Science Theory and 
-Methodology [(ICS)](http://ics-graduateschool.nl/). I am currently working on a project
-exploring gender representation of Dutch professors in newspapers and social media
-with [dr. Bas Hofstra](https://www.bashofstra.com/). From September 2024 onwards, I will start 
-as a Max Weber Postdoctoral fellow at the Department of Political and Social Sciences of the 
+I am a Max Weber Postdoctoral fellow at the Department of Political and Social Sciences of the 
 European University Institute [(EUI)](https://www.eui.eu/en/academic-units/political-and-social-sciences).
+Prior to starting at the EUI, I was a postdoctoral researcher at the Department of Sociology, Radboud University (RU)
+and the Interuniversity Center for Social Science Theory and 
+Methodology [(ICS)](http://ics-graduateschool.nl/) working on a project
+on gender representation of Dutch professors in newspapers and social media
+with [dr. Bas Hofstra](https://www.bashofstra.com/).
 
-Before this, I was a PhD Candidate at the Department of Sociology, Utrecht 
+I obtained my PhD at the Department of Sociology, Utrecht 
 University (UU) under the supervision of [dr. Wojtek Przepiorka](https://equail.org/) and 
 [prof.dr. Vincent Buskens](https://www.uu.nl/medewerkers/vbuskens). 
 
@@ -60,7 +60,8 @@ Finally, please feel free to contact me at: **ana.macanovic [at] ru [dot] nl **
 </br>
 <font size="4"> **Peer-reviewed publications** </font>
 
- - <font size="3.5"> **Macanovic, A.**, Przepiorka, W. 2024. A Systematic Evaluation of Text Mining Methods for Short Texts: Mapping Individuals’ Internal States from Online Posts. *Behavior Research Methods (forthcoming)*. Preprint available [here](https://osf.io/preprints/socarxiv/cerzs/) </font>
+ - <font size="3.5"> **Macanovic, A.**, Przepiorka, W. 2024. A Systematic Evaluation of Text Mining Methods for Short Texts: Mapping Individuals’ Internal States from Online Posts. *Behavior Research Methods (online)*, doi: 10.3758/s13428-024-02381-9.
+ Available [here](https://link.springer.com/article/10.3758/s13428-024-02381-9) </font>
 
  - <font size="3.5"> **Macanovic, A.**, Tsvetkova, M., Przepiorka, W., and Buskens, V. 2023. Signals of
 Belonging: Emergence of Signalling Norms as Facilitators of Trust and Parochial
