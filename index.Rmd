@@ -46,11 +46,11 @@ Below you can find a brief list of my publications and work in progress.
 You can find more detailed information on my research projects [here](https://amacanovic.github.io/research.html)
 and read about my professional
 and teaching activities [here](https://amacanovic.github.io/activities.html).
-You can also find my up-to-date CV (June 2024) [here](https://amacanovic.github.io/Macanovic_CV_6_6_2024.pdf), 
+You can also find my up-to-date CV (January 2025) [here](https://amacanovic.github.io/Macanovic_CV_8_1_2025.pdf), 
 and visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=s5D67kwAAAAJ).
 
 
-Finally, please feel free to contact me at: **ana.macanovic [at] ru [dot] nl **
+Finally, please feel free to contact me at: **ana.macanovic [at] eui [dot] eu **
 
 </font>
 </div>
@@ -89,13 +89,12 @@ Research*, doi: 10.1016/j.ssresearch.2022.102784. Available for download [here](
 
 <font size="2"> * denotes equal authorship </font> 
 
- - <font size="3.5"> **Macanovic, A.**, Hofstra B. Gendered Accumulation of Fame: Effects of Cumulative Advantage and Network Spillovers on Representation of Dutch Professors in Media. *In preparation.* </font>
+ - <font size="3.5"> **Macanovic, A.**, Hofstra B. Limits to Gender Equity in Scientific Communication *Under review.* </font>
+ 
+ - <font size="3.5"> **Macanovic, A.**, Przepiorka, W., and Buskens, V. Governing the Agora: The Role of Informal Communication in Reputation-Based Online Markets. *In preparation.* </font>
 
  - <font size="3.5"> Ollion E., Shen, R., **Macanovic, A.**, Chatelain, A. 2023. ChatGPT for Text Annotation? Mind the Hype!. Preprint available [here](https://osf.io/preprints/socarxiv/x58kn/)</font>
 
-
- - <font size="3.5"> **Macanovic, A.**, Przepiorka, W., and Buskens, V. Governing Through Gossip: The Role of Informal Communication in Reputation-Based Online Markets. *In preparation.* </font>
- 
 
 - <font size="3.5"> **Macanovic, A.**, and Morando, D.* “I Heard it on the (Silk)Road”: Structural and Cultural Pathways to Novelty Introduction in an Online Community. *Under review.* Available upon request. </font>
 
