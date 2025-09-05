@@ -8,6 +8,9 @@ output: html_document
 
 ### Teaching
 <br/>
+- 2025. European University Institute, SPS Summer School, *Supervising master students' projects*
+<br/>
+<br/>
 
 - 2022. Utrecht University, Applied Data Science MA Thesis Project, *Co-supervising final thesis projects of master students in the Applied Data Science program*
 <br/>
@@ -78,84 +81,53 @@ output: html_document
 ### Invited talks
 <br/>
 
-- 2024. Computational Text Analysis for Social Sciences: Opportunities and Challenges. *Coffee and Knowledge sessions, Netherlands Institute for Social Research*
+- 2025. *Deepest Beliefs Lab, University of North Carolina at Chapel Hill*
 <br/>
 <br/>
 
-- 2023. Mapping Individuals’ Internal States from Online Texts: A Systematic Evaluation of Text Mining Methods for Short Texts. *Meeting of the Organisational Behaviour research group, Utrecht University*
+- 2025.*Sociology Seminar, Institute of Sociology, University of Bern*
 <br/>
 <br/>
 
-- 2023. Mapping Individuals’ Internal States from Online Texts: A Systematic Evaluation of Text Mining Methods for Short Texts. *Colloquium of the Social, Economic, and Organisational Psychology department, Leiden University*
+- 2025.*Sociology Seminar, Department of Sociology, Radboud Universiteit*
+<br/>
+<br/>
+- 2024. *POPNET Connects, University of Amsterdam*
 <br/>
 <br/>
 
-- 2023. Signals of Belonging: Emergence of Signalling Norms as Facilitators of Parochial Cooperation, *Cooperative Relations Seminar, Department of Sociology, Utrecht University*
+- 2024. *Laboratory of Agent-Based Social Simulation (LABSS), National Research Council of Italy (CNR)*
 <br/>
 <br/>
 
-- 2023. Text Mining in Social Sciences: A Methods Overview, *DYSTENA Workshop: Gaining Insights into Social Media Discourse by Combining Text and Network Analyses, Online*
+- 2024. *Coffee and Knowledge sessions, Netherlands Institute for Social Research*
+<br/>
+<br/>
+
+- 2023. *Meeting of the Organisational Behaviour research group, Utrecht University*
+<br/>
+<br/>
+
+- 2023. *Colloquium of the Social, Economic, and Organisational Psychology department, Leiden University*
+<br/>
+<br/>
+
+- 2023. *Cooperative Relations Seminar, Department of Sociology, Utrecht University*
+<br/>
+<br/>
+
+- 2023. *DYSTENA Workshop: Gaining Insights into Social Media Discourse by Combining Text and Network Analyses, Online*
 <br/>
 <br/>
 
 
-- 2023. Minority Group Size Moderates Inequity-Reducing Strategies in Homophilic Networks, *Centre for Complex Systems Studies (CCSS), Utrecht University*
+- 2023. *Centre for Complex Systems Studies (CCSS), Utrecht University*
 <br/>
 <br/>
 
-- 2022. “I Heard it on the (Silk)Road”: Who Introduces Innovations in Online Communities?, *Summer Institute in Computational Social Science (SICSS) London*
+- 2022.*Summer Institute in Computational Social Science (SICSS) London*
 <br/>
 <br/>
 
 <br/>  
 <br/> 
- 
-### Conference and Workshop Presentations
-<br/>
-
-
-- 2023.	“I Heard it on the (Silk)Road”: Structural and Cultural Pathways to Novelty Introduction in an Online Community, *118th Annual Meeting of the American Sociological Association, Philadelphia*
-<br/>
-<br/>
-
-- 2023.	Governing Through Gossip: The Role of Informal Communication in Reputation-Based Online Markets, *118th Annual Meeting of the American Sociological Association, Philadelphia*
-<br/>
-<br/>
-
-
-- 2023.	Governing Through Gossip: The Role of Informal Communication in Reputation-Based Online Markets, *15th Annual Conference of the International Network of Analytical Sociologists (INAS), Princeton University, Princeton*
-<br/>
-<br/>
-
-
-- 2023.	The Moral Embeddedness of Cryptomarkets: Text Mining Feedback on Economic Exchanges on the Dark Web, *International Meeting on Experimental and Behavioral Social Sciences (IMEBESS), Lisbon*
-<br/>
-<br/>
-
-
-- 2022. Computational Text Analysis for Sociology – Opportunities and Challenges, *ODISSEI Conference for Social Science in the Netherlands 2022, Utrecht*
-<br/>
-<br/>
-
-- 2022. Does the Grapevine Still Matter? The Importance of Gossip in the Presence of Formalized Reputation Measures in Online Markets, *International Conference on Social Dilemmas (ICSD) 2022, University of Copenhagen, Copenhagen*
-<br/>
-<br/>
-
-- 2022. Mapping Individuals’ Internal States from Tweets and Feedback Texts: A Systematic Evaluation of Text Mining Methods for Short Texts, *14th Annual Conference of the International Network of Analytical Sociologists (INAS), European University Institute, Florence*
-<br/>
-<br/>
-
-- 2021. Mining Everyday Texts for Sociologically Relevant Phenomena: Evidence from Online Market Exchanges, *15th ESA Conference*, *Online*
-<br/>
-<br/>
-
-- 2021. Positive Reputation Bias in Cryptomarkets: Validating Quantitative Ratings with Automatic Analyses of Feedback Texts, *IV ISA Forum of Sociology*, *Online*
-<br/>
-<br/>
-
-
-- 2020. Presentation: Motives for leaving feedback after cryptomarket transactions - Evidence from automatic text analysis, *Text Analysis in Economics and the Social Sciences Workshop, University of East Anglia*, *Online*
- <br/>
- <br/>
-
-

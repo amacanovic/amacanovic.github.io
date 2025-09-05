@@ -15,6 +15,9 @@ canonical_url: https://amacanovic.github.io/
 <font size="3.5"> 
 I am a Max Weber Postdoctoral fellow at the Department of Political and Social Sciences of the 
 European University Institute [(EUI)](https://www.eui.eu/en/academic-units/political-and-social-sciences).
+From November 1st, 2025, I will be joining the Department of Sociology at Utrecht University
+as an Assistant Professor.
+
 Prior to starting at the EUI, I was a postdoctoral researcher at the Department of Sociology, Radboud University (RU)
 and the Interuniversity Center for Social Science Theory and 
 Methodology [(ICS)](http://ics-graduateschool.nl/) working on a project
@@ -61,26 +64,29 @@ Finally, please feel free to contact me at: **ana.macanovic [at] eui [dot] eu **
 <font size="4"> **Peer-reviewed publications** </font>
 
  - <font size="3.5"> **Macanovic, A.**, Przepiorka, W. 2024. A Systematic Evaluation of Text Mining Methods for Short Texts: Mapping Individuals’ Internal States from Online Posts. *Behavior Research Methods (online)*, doi: 10.3758/s13428-024-02381-9.
- Available [here](https://link.springer.com/article/10.3758/s13428-024-02381-9) </font>
+ Available [here](https://link.springer.com/article/10.3758/s13428-024-02381-9). </font>
 
  - <font size="3.5"> **Macanovic, A.**, Tsvetkova, M., Przepiorka, W., and Buskens, V. 2023. Signals of
 Belonging: Emergence of Signalling Norms as Facilitators of Trust and Parochial
-Cooperation. *Philosophical Transactions of the Royal Society B, 379*, doi: 10.1098/rstb.2023.0029. Preprint available [here](https://osf.io/preprints/socarxiv/acr82/) </font>
+Cooperation. *Philosophical Transactions of the Royal Society B, 379*, doi: 10.1098/rstb.2023.0029. Preprint available [here](https://osf.io/preprints/socarxiv/acr82/). </font>
 
 
- - <font size="3.5"> **Macanovic, A.**, Przepiorka, W. 2023. The Moral Embeddedness of Cryptomarkets: Text Mining Feedback on Economic Exchanges on the Dark Web. *Socio-Economic Review, mwad069*, doi: 10.1093/ser/mwad069. Available [here](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwad069/7499725)  </font>
+ - <font size="3.5"> **Macanovic, A.**, Przepiorka, W. 2023. The Moral Embeddedness of Cryptomarkets: Text Mining Feedback on Economic Exchanges on the Dark Web. *Socio-Economic Review, mwad069*, doi: 10.1093/ser/mwad069. Available [here](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwad069/7499725). </font>
 
 
  - <font size="3.5"> **Macanovic, A.** 2022. Text Mining for Social Science – The State and the
 Future of Computational Text Analysis in Sociology. *Social Science
-Research*, doi: 10.1016/j.ssresearch.2022.102784. Available for download [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf)</font>
+Research*, doi: 10.1016/j.ssresearch.2022.102784. Available for download [here](https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf).</font>
 
 </br>
 
 
 <font size="4"> **Other publications** </font> 
 
- - <font size="3.5"> Ollion E., Shen, R., **Macanovic, A.**, Chatelain, A. 2024. The dangers of using proprietary LLMs for research. *Nature Machine Intelligence*. doi: 10.1038/s42256-023-00783-6. Available for reading [here](https://rdcu.be/dwCE2) </font>
+ - <font size="3.5"> **Macanovic, A.** 2025. Sifting Through Text and Time – Computational Text Analysis for Historical Sociology. *Nature Machine Intelligence*. doi: 10.1038/s42256-023-00783-6. Available for reading [here](https://rdcu.be/dwCE2). </font>
+
+
+ - <font size="3.5"> Ollion E., Shen, R., **Macanovic, A.**, Chatelain, A. 2024. The dangers of using proprietary LLMs for research. *Forthcoming as a Chapter in the Research Handbook of Historical Sociology edited by M.H.D. van Leeuwen.* </font>
 
 </br>
 
@@ -89,14 +95,28 @@ Research*, doi: 10.1016/j.ssresearch.2022.102784. Available for download [here](
 
 <font size="2"> * denotes equal authorship </font> 
 
- - <font size="3.5"> **Macanovic, A.**, Hofstra B. Limits to Gender Equity in Scientific Communication *Under review.* </font>
+- <font size="3.5"> **Macanovic, A.**, Hofstra B. Limits to Gender Equity in Scientific Communication *Under review.* </font>
  
- - <font size="3.5"> **Macanovic, A.**, Przepiorka, W., and Buskens, V. Governing the Agora: The Role of Informal Communication in Reputation-Based Online Markets. *In preparation.* </font>
 
- - <font size="3.5"> Ollion E., Shen, R., **Macanovic, A.**, Chatelain, A. 2023. ChatGPT for Text Annotation? Mind the Hype!. Preprint available [here](https://osf.io/preprints/socarxiv/x58kn/)</font>
+- <font size="3.5"> Pial, T., **Macanovic, A.**, Sage, L., Hassan, E., Hafner, F., Skiena, S., van de Rijt, A., Emery, T. Fertility Prediction with Foundational Large Language Models Trained on Population Registry Data.  *In preparation.* </font>
+ 
+
+- <font size="3.5"> De Vaan, M, Hofstra, B., **Macanovic, A.**, van de Rijt, A. Societal Segregation: Disentangling Choice from Opportunity Using Dutch Register Data. *In preparation.* </font>
 
 
-- <font size="3.5"> **Macanovic, A.**, and Morando, D.* “I Heard it on the (Silk)Road”: Structural and Cultural Pathways to Novelty Introduction in an Online Community. *Under review.* Available upon request. </font>
+- <font size="3.5"> Edlund, P., **Macanovic, A.**, van de Rijt, A. The Matthew Effect in Science Funding: Resources or Status? *In preparation.*</font>
+
+
+- <font size="3.5"> **Macanovic, A.** Accuracy of Group Reasoning and Estimation Under Social Influence. *In preparation.* </font>
+
+ 
+- <font size="3.5"> **Macanovic, A.**, Przepiorka, W., Buskens, V. Governing the Agora: The Role of Informal Communication in Reputation-Based Online Markets. *In preparation.* </font>
+ 
+ 
+ - <font size="3.5"> Wittek, M., **Macanovic, A.**, Nägel C., Pickartz M. The Online and Offline Effects of Terror Attacks on Public Opinion Regarding Immigration. *In preparation.*</font>
+ 
+ 
+ - <font size="3.5"> Ollion E., Shen, R., **Macanovic, A.**, Chatelain, A. ChatGPT for Text Annotation? Mind the Hype!. Preprint available [here](https://osf.io/preprints/socarxiv/x58kn/)</font>
 
 
  - <font size="3.5"> Zhang, S., **Macanovic, A.** Minority group size moderates inequity-reducing strategies in homophilic networks. *In preparation.* </font>
